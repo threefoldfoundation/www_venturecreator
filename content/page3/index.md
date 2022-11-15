@@ -7,9 +7,11 @@ draft: false
 weight: 2
 ---
 
+<br>
+
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="header" padding="both") %}
 
 # TITLE {#text-8xl}
 

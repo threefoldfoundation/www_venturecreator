@@ -7,9 +7,12 @@ draft: false
 weight: 1
 ---
 
+
+
+
 <!-- section 1 (header) -->
 
-{% row(margin="header") %}
+{% row(margin="header" padding="both") %}
 
 # TITLE {#text-8xl}
 
