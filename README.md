@@ -2,14 +2,12 @@
 
 ## About
 
-A website created using Zola, a static site generator.
+This repository is template to build a new Zola website.
 
 - The contents of the pages reside in the markdown files in /content (written in CommmonMark)
 - The pages are rendered using HTML templates with Tailwind CSS framework in /templates
 
 ## Getting Started
-
-This repository is template to build a new Zola website.
 
 To use this repository as a template, simply:
 
