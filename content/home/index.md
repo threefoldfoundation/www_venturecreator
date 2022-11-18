@@ -14,19 +14,16 @@ weight: 1
 
 {% row(margin="header" padding="both") %}
 
-# TITLE {#text-8xl}
+# MyTrunk {#text-8xl}
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br> Quas, aliquid ab blanditiis omnis odio repellat?
 
-<button>[BUTTON](/)</button>
+My trunk is an idea that a good friend and I had a long time ago. This was at the start of the whole .com boom where everyone that had an idea got millions to execute on it. Many of these initial ideas failed, some of them became the monopolies of today, Google, Facebook and Amazon. We never launched the mytrunk.com domain and this site is an ode to that lost opportunity in which I organize my daily online life.
+
+<button>[Like!](/)</button>
 
 |||
 
-
 ![placeholder](placeholder.jpg#mx-auto)
-
-
-
 
 {% end %}
 
@@ -39,7 +36,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.<br> Quas, aliquid ab b
 
 ![Lorem](placeholder.jpg#medium)
 
-### **TITLE**
+### **SECTION 2.1**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
@@ -47,7 +44,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 ![Lorem](placeholder.jpg#medium)
 
-### **TITLE**
+### **SECTION 2.2**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
@@ -55,7 +52,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 ![Lorem](placeholder.jpg#medium)
 
-### **TITLE**
+### **SECTION 2.3**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
@@ -72,7 +69,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 |||
 
-## YOUR TITLE <br /> HERE
+## SECTION # <br /> HERE
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -88,7 +85,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab bland
 
 |||
 
-### **TITLE**
+### **SECTION 4.1**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -98,7 +95,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 |||
 
-### **TITLE**
+### **SECTION 4.2**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -112,7 +109,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 |||
 
-### **TITLE**
+### **SECTION 4.3**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -122,7 +119,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 |||
 
-### **TITLE**
+### **SECTION 4.5**
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -134,7 +131,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 {% row(style="center" margin="narrow" padding="both") %}
 
-## TITLE <br /> HEADER
+## SECTION 5 <br /> HEADER
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
@@ -148,7 +145,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 {% row(style="center" margin="narrow" padding="top") %}
 
-## TITLE
+## SECTION 6
 
 Lorem ipsum dolor, sit amet consectetur adipisicing elit
 
