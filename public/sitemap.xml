@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://venturecreator.studio</loc>
+        <loc>https://venturecreator.studio/</loc>
     </url>
     <url>
-        <loc>https://venturecreator.studiocategories/</loc>
-    </url>
-    <url>
-        <loc>https://venturecreator.studiohome/</loc>
+        <loc>https://venturecreator.studio/about/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://venturecreator.studiopage2/</loc>
+        <loc>https://venturecreator.studio/categories/</loc>
+    </url>
+    <url>
+        <loc>https://venturecreator.studio/contact/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://venturecreator.studiopage3/</loc>
+        <loc>https://venturecreator.studio/home/</loc>
+        <lastmod>2021-02-20</lastmod>
+    </url>
+    <url>
+        <loc>https://venturecreator.studio/project/</loc>
+        <lastmod>2021-02-20</lastmod>
+    </url>
+    <url>
+        <loc>https://venturecreator.studio/reward-pool/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
 </urlset>

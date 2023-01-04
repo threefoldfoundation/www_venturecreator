@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://venturecreator.studiositemap.xml
+Sitemap: https://venturecreator.studio/sitemap.xml
