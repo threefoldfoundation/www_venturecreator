@@ -6,24 +6,24 @@ updated: 2021-02-20
 draft: false
 weight: 1
 ---
+<!-- section 1 -->
 
+{% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
 
+ ## Venture Creator
+ 
+ ### A Co-Owned Abundance-Based System
 
+ <br>
 
-<!-- section 1 (header) -->
+ Our mission is to conserve and protect unique locations by promoting eco-tourism and education. <br> We strive to raise awareness of the importance of environmental conservation  <br> and to inspire people to take action to regenerate our planet.
 
-{% row(margin="header" padding="both") %}
+ <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
-# MyTrunk {#text-8xl}
-
-
-My trunk is an idea that a good friend and I had a long time ago. This was at the start of the whole .com boom where everyone that had an idea got millions to execute on it. Many of these initial ideas failed, some of them became the monopolies of today, Google, Facebook and Amazon. We never launched the mytrunk.com domain and this site is an ode to that lost opportunity in which I organize my daily online life.
-
-<button>[Like!](/)</button>
-
-|||
-
-![placeholder](placeholder.jpg#mx-auto)
+ <br>
+ <br>
+ <br>
+ <br>
 
 {% end %}
 
