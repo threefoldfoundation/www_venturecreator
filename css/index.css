@@ -8,14 +8,14 @@
 @import "admonition.css";
 @import "tailwindcss/utilities";
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@300;400;700;900family=Lato:wght@300;400;700;900&family=Montserrat:wght@400;700&display=swap');
 /* Custom CSS for header partial */
 .backdrop-blur {
   -webkit-backdrop-filter: blur(40px);
 }
 
 * {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Alegreya', sans-serif;
 }
 
 .bg-semi-white {
@@ -80,13 +80,13 @@ img[src*="#fig"] {
 
 .advance{
 
-  font-family: "lato";
+  font-family: "Alegreya";
 }
 
 @layer components {
   h1 {
     @apply text-3xl lg:text-5xl xl:text-7xl font-bold leading-none my-4;
-    font-family: "lato", sans-serif;
+    font-family: "Alegreya", sans-serif;
     line-height: 0.9;
     
   }
@@ -95,7 +95,7 @@ img[src*="#fig"] {
   }
   h2 {
     @apply text-3xl md:text-4xl lg:text-5xl xl:text-7xl font-bold leading-none my-4;
-    font-family: "lato", sans-serif;
+    font-family: "Alegreya", sans-serif;
     line-height: 0.9;
     
   }
