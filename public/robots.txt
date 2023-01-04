@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://examplezola.tf/sitemap.xml
+Sitemap: https://venturecreator.studiositemap.xml

@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://examplezola.tf/</loc>
+        <loc>https://venturecreator.studio</loc>
     </url>
     <url>
-        <loc>https://examplezola.tf/categories/</loc>
+        <loc>https://venturecreator.studiocategories/</loc>
     </url>
     <url>
-        <loc>https://examplezola.tf/home/</loc>
+        <loc>https://venturecreator.studiohome/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://examplezola.tf/page2/</loc>
+        <loc>https://venturecreator.studiopage2/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
     <url>
-        <loc>https://examplezola.tf/page3/</loc>
+        <loc>https://venturecreator.studiopage3/</loc>
         <lastmod>2021-02-20</lastmod>
     </url>
 </urlset>
