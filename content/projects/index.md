@@ -7,6 +7,8 @@ draft: false
 weight: 2
 ---
 
+<div class="container mx-auto">
+
 <br>
 
 <!-- section 1 (co-found) -->
@@ -20,5 +22,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 ![Image](placeholder.jpg#medium#mx-auto)
 
 {% end %}
+
+</div>
 
 

@@ -6,9 +6,16 @@ updated: 2021-02-20
 draft: false
 weight: 1
 ---
+
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgStyle="full") %}
+<div class="container mx-auto">
+
+<br>
+
+<br>
+
+{% row(style="center narrow" margin="wide" bgStyle="full") %}
 
  ## Venture Creator
  
@@ -20,19 +27,11 @@ weight: 1
 
  <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
 
- <br>
- <br>
- <br>
- <br>
-
 {% end %}
-
-<br>
-<br>
 
 <!-- section 2  -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="wide" padding="both") %}
 
 ![Lorem](placeholder.jpg#medium)
 
@@ -63,7 +62,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 <!-- section 3 -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="wide" padding="both") %}
 
 ![Image](placeholder.jpg)
 
@@ -79,7 +78,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab bland
 
 <!-- section 4 -->
 
-{% row(style="" margin="narrow" padding="top") %}
+{% row(style="" margin="wide" padding="top") %}
 
 ![Image](placeholder.jpg#sm#mx-auto)
 
@@ -103,7 +102,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 <!-- section 4-2-->
 
-{% row(style="" margin="narrow" padding="bottom") %}
+{% row(style="" margin="wide" padding="bottom") %}
 
 ![Image](placeholder.jpg#sm#mx-auto)
 
@@ -129,7 +128,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 <!-- section 5 -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="wide" padding="both") %}
 
 ## SECTION 5 <br /> HEADER
 
@@ -143,7 +142,7 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blandi
 
 <!-- section 6 -->
 
-{% row(style="center" margin="narrow" padding="top") %}
+{% row(style="center" margin="wide" padding="top") %}
 
 ## SECTION 6
 
@@ -153,8 +152,10 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit
 
 {% end %}
 
-{% row(margin="header" padding="none") %}
+{% row(margin="wide" padding="bottom") %}
 
     ![Image](placeholder.jpg#medium#mx-auto)
 
 {% end %}
+
+</div>
