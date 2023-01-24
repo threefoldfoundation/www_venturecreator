@@ -2,7 +2,7 @@
 base_url = "https://venturecreator.studio"
 # Change this to your own URL! Please note this variable **must** be uncommented.
 
-title = "examplezola"
+title = "Venture Creator"
 description="Our global digital backbone"
 
 # When set to "true", a feed is automatically generated.
