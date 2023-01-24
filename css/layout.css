@@ -71,28 +71,28 @@ code {
 }
 
 nav h4 a:hover {
-  @apply border-0 text-blue-300 font-light;
+  @apply border-0 text-gray-300 font-light;
 }
 nav h4 a,
 nav h4 a:focus,
 nav h4 a:active {
-  @apply border-0 text-black font-light;
+  @apply border-0 text-white font-light;
 }
 
 a h2 {
-  @apply text-black;
+  @apply text-white;
 }
 
 a:focus,
 a:hover {
-  @apply border-none text-blue-300;
+  @apply border-none text-gray-300;
 }
 a:active {
-  @apply text-blue-800 border-blue-500;
+  @apply text-gray-500 border-blue-500;
 }
 
 h5 a {
-  @apply text-gray-900 font-normal;
+  @apply text-gray-100 font-normal;
 }
 
 /*

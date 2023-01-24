@@ -12,7 +12,7 @@
 
     function toggleMenu(button) {
         if (displayedMenu === button.id.split("-")[0]) { 
-            button.className = button.className.replace(" text-blue-500 bg-stone-200 sm:bg-transparent", " text-gray-900");
+            button.className = button.className.replace(" text-blue-500 bg-stone-200 sm:bg-transparent", " text-white");
             hideMenu(button.id.split("-")[0]);
             button.lastElementChild.className = button.lastElementChild.className.replace("rotate-0", "-rotate-90")
             displayedMenu = "";
@@ -20,7 +20,7 @@
         else { 
             showMenu(button.id.split("-")[0]);
             button.lastElementChild.className = button.lastElementChild.className.replace("-rotate-90", "rotate-0")
-            button.className = button.className.replace(" text-gray-900", " text-blue-500 bg-stone-200 sm:bg-transparent");
+            button.className = button.className.replace(" text-white", " text-blue-500 bg-stone-200 sm:bg-transparent");
             displayedMenu = button.id.split("-")[0]
         }
     }
@@ -123,7 +123,7 @@
                     <nav class="flex space-x-10">    
                     {% for page in section.pages %}
                     {% if page.extra.menu %} {% continue %} {% endif %}
-                        <a href="{{page.permalink}}" class="text-lg leading-6 text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150 mt-0">
+                        <a href="{{page.permalink}}" class="text-lg leading-6 text-white focus:outline-none focus:text-white transition ease-in-out duration-150 mt-0">
                             {{page.title}}
                         </a>
                         <div class="relative">
@@ -133,7 +133,7 @@
                         {% if subsection == "footer/_index.md" %} {% continue %} {% endif %}                        
                         {% set button_id = subsection ~ "-menu-btn" | slugify %}
                         <div class="relative">
-                        <button type="button" id="{{button_id}}" class="nav_btn text-gray-900 group inline-flex items-center space-x-2 text-lg leading-6 hover:text-blue-300 focus:outline-none transition ease-in-out duration-150">
+                        <button type="button" id="{{button_id}}" class="nav_btn text-white group inline-flex items-center space-x-2 text-lg leading-6 hover:text-blue-300 focus:outline-none transition ease-in-out duration-150">
                             <span>{{ subsection }}</span>
                             <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
                         </button>
@@ -179,7 +179,7 @@
                         {% for page in section.pages %}
                             {% if page.relative_path == "home/index.md" %} {% continue %} {% endif %}
                             {% if page.extra.menu %} {% continue %} {% endif %}
-                            <a href="{{page.permalink}}" class="text-lg px-8 py-3 leading-6 font-normal text-gray-900 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                            <a href="{{page.permalink}}" class="text-lg px-8 py-3 leading-6 font-normal text-white hover:text-white focus:outline-none focus:text-white transition ease-in-out duration-150">
                                 {{page.title}}
                             </a>
                             <hr/>
@@ -189,7 +189,7 @@
                             {% set button_id = subsection ~ "-mobile-menu-btn" | slugify %}
                             {% set menu_id = subsection ~ "-mobile-menu" | slugify %}
 
-                            <button type="button" id="{{button_id}}" class="flex flex px-8 py-3 items-start text-left text-gray-900 group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-gray-900 focus:outline-none focus:text-gray-900 transition ease-in-out duration-150">
+                            <button type="button" id="{{button_id}}" class="flex flex px-8 py-3 items-start text-left text-white group inline-flex space-x-2 text-lg leading-6 font-normal hover:text-white focus:outline-none focus:text-white transition ease-in-out duration-150">
                                 <span>{{ subsection }}</span>
                                 <div class="-rotate-90 transition-transform"><svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0z" fill="none"/><path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"/></svg></div>
                             </button>

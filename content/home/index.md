@@ -8,7 +8,7 @@ weight: 1
 ---
 <!-- section 1 -->
 
-{% row(style="center narrow" margin="header" bgPath="img/home_header.jpg" bgStyle="full") %}
+{% row(style="center narrow" margin="header" bgStyle="full") %}
 
  ## Venture Creator
  
