@@ -7,6 +7,6 @@ draft: false
 sort_by: weight
 weight: 1
 extra:
-    logo_path: images/logo_placeholder.png
+    logo_path: logo_placeholder.png
 
 ---
