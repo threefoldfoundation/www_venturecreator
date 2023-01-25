@@ -191,7 +191,7 @@ The health of our planet and the well-being of citizens and governments are top 
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="wide" padding="none") %}
+{% row(style="center narrow" margin="wide" padding="bottom") %}
 
 ## Conscious Ventures
 
@@ -253,6 +253,10 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 ![Image](img/ff.png#medium#mx-auto)
 
+<br>
+<br>
+<br>
+
 |||
 
 
@@ -266,6 +270,8 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 <button>[Learn More](/manifesto/)</button>
 
+<br>
+<br>
 <br>
 
 {% end %}
