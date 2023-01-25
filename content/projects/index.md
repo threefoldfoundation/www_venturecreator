@@ -93,6 +93,25 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 {% end %}
 
+
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+## Sikana
+<br>
+<p>
+A practical video-based learning platform. Free, everywhere, every time.
+</p>
+
+<button>[Learn More](/projects/sikana/)</button>
+
+|||
+
+![Image](img/sikana.png#medium#mx-auto)
+
+<br>
+
+{% end %}
+
 <!-- section 1 (co-found) -->
 
 {% row(style="center" margin="header" padding="none") %}
