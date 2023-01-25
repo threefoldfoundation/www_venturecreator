@@ -15,14 +15,88 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-# TITLE {#text-8xl}
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+<!-- section 3 -->
 
-![Image](placeholder.jpg#medium#mx-auto)
+
+{% row(style="center narrow" margin="wide" padding="none") %}
+
+## Conscious Ventures
+
+<br>
+
+![Image](img/venture.png#medium#mx-auto)
+
+<br>
+
+<p>
+We form ventures and startups that are specifically designed to provide every individual, 
+<br>
+despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
+</p>
+
+<br>
 
 {% end %}
 
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+![Image](img/tff.png#medium#mx-auto)
+
+|||
+
+
+## ThreeFold Grid
+<br>
+<p>
+A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
+
+{% end %}
+
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+## OurPhone
+<br>
+<p>
+Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone. 100% data ownership with a quantum safe storage system, fully encrypted communication, and more.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
+
+
+|||
+
+![Image](img/ourphone.png#medium#mx-auto)
+
+<br>
+
+{% end %}
+
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+![Image](img/ff.png#medium#mx-auto)
+
+|||
+
+
+## FreeFlow Life
+
+<br>
+<p>
+Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
+
+<br>
+
+{% end %}
 </div>
 
 
