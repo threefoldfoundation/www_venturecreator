@@ -29,10 +29,9 @@ weight: 1
 <br>
  <br>
 
-<p>
- We believe that doing good for the world and doing good businesses can go hand in hand.  <br>
- We believe in a world where value meets values.
-</p>
+ ### We believe that doing good for the world and doing good businesses can go hand in hand.
+ ### We believe in a world where value meets values.
+
 
 {% end %}
 
@@ -155,7 +154,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="center narrow" margin="wide" padding="none") %}
 
-# Where Value Meets Value
+# Where Value Meets Values
 
 <br>
 

@@ -17,17 +17,17 @@ weight: 2
 
 <br>
 
-![Image](placeholder.jpg#medium#mx-auto)
+![Image](img/home1.png#medium#mx-auto)
 
 <br>
+
 <p>
 A venture creator is a company or organization that creates and develops new businesses, typically in the form of startups. Support includes providing funding, resources, and mentorship.
-<br>
-The Conscious Internet Venture Creator is backed by the ThreeFold Team with the goal of not just doing business, but doing good for the world while we’re at it.
-<br>
-We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
 
-<p>
+The Conscious Internet Venture Creator is backed by the ThreeFold Team with the goal of not just doing business, but doing good for the world while we’re at it. 
+
+We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
+</p>
 
 {% end %}
 
