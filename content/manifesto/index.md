@@ -30,17 +30,17 @@ weight: 2
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-## Conscious Rights
+## Conscious Declaration
 
-![Image](img/rights.png#xl#mx-auto)
+![Image](img/declaration.png#xl#mx-auto)
 
 <br>
 
-<button>[Read More](/manifesto/rights/)</button>
+<button>[Read More](/manifesto/declaration/)</button>
 
 |||
 
-## Our Digital Laws
+## Our Digital Informations Laws
 
 ![Image](img/laws.png#xl#mx-auto)
 

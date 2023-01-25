@@ -26,6 +26,37 @@ weight: 2
 
 ![Image](img/declaration.png#xl#mx-auto)
 
+|||
+
+<br>
+
+### We Declare that We Have Power and We Need to Act
+
+<p>
+The world needs healing. There is too much talk and not enough action. We believe that we have the power. We shouldn’t blame others – governments, society, politicians or other countries. We all are at the source of the problems the world is facing today, and together we can do something about it.
+We have a responsibility to improve the things we can have an impact on instead of blaming others around us.
+This doesn’t mean we have no right to a financially comfortable life, it means we have to act and help heal the world. If we all change our actions towards what we can have a positive impact on, the world would be a better place tomorrow.
+</p>
+
+<br>
+
+### We Declare that Respect is the Basis of Our Communication and Action
+
+<p>
+We declare that respect instead of fear or ego will be the basis of our communication and our action in this digital nation. We don’t have to agree but respect and tolerance for other opinions is a must. We need to respect time, e.g. time of others and our own.
+</p>
+
+
+<br>
+
+### We Declare to Respect the World’s Finite Resources
+
+<p>
+We need to be respectful for finite world resources.
+We will actively look to purchase products which are more sustainable.
+We declare that we want to produce high quality and sustainable products or services.
+</p>
+
 <br>
 
 <button>[Conscious Manifesto](/manifesto/)</button>
