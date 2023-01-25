@@ -118,7 +118,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
 </p>
 
-<button>[Learn More](/technology/)</button>
+<button>[Learn More](/home/technology/)</button>
 
 |||
 

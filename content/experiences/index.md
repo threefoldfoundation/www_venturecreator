@@ -12,13 +12,13 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both") %}
+{% row(style="center" margin="header" padding="top") %}
 
 ## Our Experience
 
 {% end %}
 
-{% row(style="left narrowx" padding="bottom") %}
+{% row(style="left narrow" padding="bottom") %}
 
 <p>
 This journey began with the creation of a new Internet infrastructure layer, a process that took over 20 years – and was made possible by the contributions of thousands of people. Thank you to everyone who has made this possible.
@@ -49,7 +49,7 @@ We have also completed all necessary preparations for the launch of our digital 
 
 {% end %}
 
-{% row(style="LEFT NARROW" padding="bottom") %}
+{% row(style="left narrow" padding="bottom") %}
 
 <p>
 There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large communities.
@@ -63,7 +63,6 @@ Our co-founders also have experience running Incubaid, a successful incubator fo
 
 
 {% end %}
-
 
 {% row(style="center" padding="bottom") %}
 
