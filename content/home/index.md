@@ -7,7 +7,7 @@ draft: false
 weight: 1
 ---
 
-<!-- section 1 -->
+
 
 <div class="container mx-auto">
 
@@ -15,45 +15,132 @@ weight: 1
 
 <br>
 
-{% row(style="center narrow" margin="wide" bgStyle="full") %}
+<!-- section 1 -->
 
- ## Venture Creator
+{% row(style="right narrow" margin="wide" padding="both") %}
+
+ ## Venture Creator 
  
- ### A Co-Owned Abundance-Based System
+ ### of The Conscious Internet 
 
  <br>
 
- Our mission is to conserve and protect unique locations by promoting eco-tourism and education. <br> We strive to raise awareness of the importance of environmental conservation  <br> and to inspire people to take action to regenerate our planet.
+<p>
+ We believe that doing good for the world and <br> doing good businesses can go hand in hand. <br>We believe in a world where value meets values.
+</p>
 
- <!-- What if we together create a new "paradise” system not based on scarcity and fear of missing out, but based on trust and abundance? An interconnected network of homes where we can always go to find healing, like-minded people, and safety. -->
+ |||
+
+  ![Image](img/homee.png#medium#mx-auto)
 
 {% end %}
 
+<!-- section 1b-->
+
+{% row(style="right narrow" margin="wide" padding="bottom") %}
+
+  ![Image](img/home1.png#medium#mx-auto)
+  
+   |||
+
+## Be the Creator
+ 
+ ### Create Ventures for a Better World 
+
+ <br>
+<p>
+We have the majority of the technology available, we need to go in production & deployment mode.  <br>We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
+ <br>
+  <br>
+Each venture is focused on a specific region and localized set of use cases using the technology we have already developed or need to further develop.
+</p>
+ {% end %}
+
+
+ <!-- section 1c -->
+
+{% row(style="center narrow" margin="wide" padding="both") %}
+
+# The Need of Conscious Internet
+
+<br>
+<br>
+
+![image](img/1.png#xl#mx-auto)
+
+<br>
+
+<p>
+Passing on and creating knowledge is a defining trait of humanity, yet current systems make it difficult to effectively do so. The centralized and manipulated nature of the Internet makes authenticity hard to come by.
+</p>
+
+<p>
+Enter ThreeFold, a project with the goal of creating a globally connected knowledge sharing and creation system, accessible to all. With the help of modern tools like Blockchain, Digital Twin Technology and AI, knowledge can be created, translated and expanded faster than ever before without losing authenticity.
+</p>
+
+<p>
+With this infrastructure in place, we have now launched Our Conscious Internet Creator, a venture creator focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
+</p>
+
+<button>[Learn More](/about/)</button>
+
+{% end %}
+
+
 <!-- section 2  -->
+
+{% row(style="center narrow" margin="wide" padding="none") %}
+
+# Our Conscious Goals
+
+{% end %}
 
 {% row(style="center" margin="wide" padding="both") %}
 
-![Lorem](placeholder.jpg#medium)
+### **Conscious Infrastructure**
 
-### **SECTION 2.1**
+<br>
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+ ![Image](img/2a.png#medium#mx-auto)
+
+
+<p>
+To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
+</p>
+
+<button>[Learn More](/manifesto/)</button>
 
 |||
 
-![Lorem](placeholder.jpg#medium)
+### **Conscious Financial System**
 
-### **SECTION 2.2**
+<br>
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+ ![Image](img/2b.png#medium#mx-auto)
+
+
+<p>
+To establish a secure, decentralized digital financial ecosystem that provides safe and affordable micropayments, exchanges, and digital currency systems.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
 
 |||
 
-![Lorem](placeholder.jpg#medium)
+### **Conscious DigitaL Tools**
 
-### **SECTION 2.3**
+<br>
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+ ![Image](img/2c.png#medium#mx-auto)
+
+
+<p>
+To empower individuals and communities with the digital tools and capabilities they need to achieve a sustainable and secure digital economy through e-commerce, e-education, e-health, and more.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
 
 {% end %}
 
@@ -62,100 +149,121 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 <!-- section 3 -->
 
-{% row(style="center" margin="wide" padding="both") %}
 
-![Image](placeholder.jpg)
+{% row(style="center narrow" margin="wide" padding="none") %}
 
-|||
+# Where Value Meets Value
 
-## SECTION # <br /> HERE
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab blanditiis omnis odio repellat?
-
-<button>[BUTTON](/)</button>
+<br>
 
 {% end %}
 
-<!-- section 4 -->
+{% row(style="left narrow" margin="wide" padding="bottom") %}
 
-{% row(style="" margin="wide" padding="top") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
+![Image](img/authenticity.png#medium#mx-auto)
 
 |||
 
-### **SECTION 4.1**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.2**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
+## Authenticity
+<br>
+<p>
+Authenticity is of the utmost importance. Ensuring that every piece of information and digital interaction is authentic and peer-reviewed for authenticity.
+</p>
 
 {% end %}
 
-<!-- section 4-2-->
+{% row(style="left narrow" margin="wide" padding="none") %}
 
-{% row(style="" margin="wide" padding="bottom") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.3**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
+## Planet & People First
+<br>
+<p>
+The health of our planet and the well-being of citizens and governments are top priorities Every action taken is in the best interest of our collective home and of people, ensuring safety, equality, education, health, privacy, and sovereignty as a right.
+</p>
 
 |||
 
-![Image](placeholder.jpg#sm#mx-auto)
+![Image](img/planetfirst.png#medium#mx-auto)
+
+{% end %}
+
+<!-- section 3 -->
+
+
+{% row(style="center narrow" margin="wide" padding="none") %}
+
+## Conscious Ventures
+
+<br>
+
+![Image](img/venture.png#medium#mx-auto)
+
+<br>
+
+<p>
+We form ventures and startups that are specifically designed to provide every individual, 
+<br>
+despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
+</p>
+
+<br>
+
+{% end %}
+
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+![Image](img/tff.png#medium#mx-auto)
 
 |||
 
-### **SECTION 4.5**
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
+## ThreeFold Grid
+<br>
+<p>
+A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
 
 {% end %}
 
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+## OurPhone
+<br>
+<p>
+Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone. 100% data ownership with a quantum safe storage system, fully encrypted communication, and more.
+</p>
 
 
-<!-- section 5 -->
+<button>[Learn More](/manifesto/)</button>
 
-{% row(style="center" margin="wide" padding="both") %}
-
-## SECTION 5 <br /> HEADER
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
 
 |||
 
-![Image](placeholder.jpg)
+![Image](img/ourphone.png#medium#mx-auto)
+
+<br>
 
 {% end %}
 
-<!-- section 6 -->
+{% row(style="left narrow" margin="wide" padding="none") %}
 
-{% row(style="center" margin="wide" padding="top") %}
+![Image](img/ff.png#medium#mx-auto)
 
-## SECTION 6
+|||
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit
 
-<button>[BUTTON](/)</button>
+## FreeFlow Life
+
+<br>
+<p>
+Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
+</p>
+
+
+<button>[Learn More](/manifesto/)</button>
+
+<br>
 
 {% end %}
-
-{% row(margin="wide" padding="bottom") %}
-
-    ![Image](placeholder.jpg#medium#mx-auto)
-
-{% end %}
-
-</div>
