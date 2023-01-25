@@ -109,7 +109,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
 </p>
 
-<button>[Learn More](/technology/)</button>
+<button>[Learn More](/home/technology/)</button>
 
 |||
 
@@ -280,8 +280,31 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 <button>[Learn More](/projects/freeflow/)</button>
 
+
+{% end %}
+
+{% row(style="left narrow" margin="wide" padding="none") %}
+
+## Sikana
 <br>
+<p>
+A practical video-based learning platform. Free, everywhere, every time.
+</p>
+
+<button>[Learn More](/projects/sikana/)</button>
+
+|||
+
+![Image](img/sikana.png#medium#mx-auto)
+
 <br>
+
+{% end %}
+
+<!-- section 1 (co-found) -->
+
+{% row(style="center" margin="header" padding="none") %}
+
 <br>
 
 {% end %}
