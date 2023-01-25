@@ -15,11 +15,26 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-# TITLE {#text-8xl}
+## OurPhone™
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+<br>
 
-![Image](placeholder.jpg#medium#mx-auto)
+![Image](img/ourphone.png#medium#mx-auto)
+
+<br>
+
+### A Truly Decentralized Smartphone
+
+
+<br>
+
+<p>
+Experience true sovereignty at your fingertips with OurPhone™, the world’s first truly decentralized smartphone.
+</p>
+
+<br>
+
+<button>[Learn More](https://ourphone.ourworld.tf/)</button>
 
 {% end %}
 
