@@ -15,11 +15,26 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-# TITLE {#text-8xl}
+## FreeFlow Life
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+<br>
 
-![Image](placeholder.jpg#medium#mx-auto)
+![Image](img/ff.png#medium#mx-auto)
+
+<br>
+
+### FreeFlow into Your Digital Life
+
+
+<br>
+
+<p>
+Own your data, digital skills, and identity. It is now possible to own every aspect of your digital life.
+</p>
+
+<br>
+
+<button>[Learn More](https://www.freeflow.life/)</button>
 
 {% end %}
 

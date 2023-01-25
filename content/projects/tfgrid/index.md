@@ -15,11 +15,30 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-# TITLE {#text-8xl}
+## ThreeFold Grid
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+<br>
 
-![Image](placeholder.jpg#medium#mx-auto)
+![Image](img/tfg.png#medium#mx-auto)
+
+<br>
+
+### The Underlying Structure
+
+
+<br>
+
+<p>
+ThreeFold is a peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries. A sovereign alternative to today’s centralized Internet model.
+</p>
+
+<p>
+Spread across the world, our team has built some of the world’s best Internet storage and cloud automation technologies since the ‘90s. With a strong vision for the future and a collaborative community, we’re now on a mission to build a better (digital) world, together.
+</p>
+
+<br>
+
+<button>[Learn More](https://threefold.io/)</button>
 
 {% end %}
 

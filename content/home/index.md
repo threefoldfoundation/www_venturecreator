@@ -48,6 +48,12 @@ We have the majority of the technology available, we need to go in production & 
   <br>
 Each venture is focused on a specific region and localized set of use cases using the technology we have already developed or need to further develop.
 </p>
+
+<br>
+
+
+<button>[Learn More](/about/)</button>
+
  {% end %}
 
 
@@ -76,7 +82,9 @@ Enter ThreeFold, a project with the goal of creating a globally connected knowle
 With this infrastructure in place, we have now launched Our Conscious Internet Creator, a venture creator focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
 </p>
 
-<button>[Learn More](/about/)</button>
+<br>
+
+<button>[Read Our Journey](/experience/)</button>
 
 {% end %}
 
@@ -101,7 +109,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
 </p>
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/technology/)</button>
 
 |||
 
@@ -117,7 +125,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/home/goldflow/)</button>
 
 |||
 
@@ -133,7 +141,7 @@ To empower individuals and communities with the digital tools and capabilities t
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/home/tools/)</button>
 
 {% end %}
 
@@ -179,6 +187,13 @@ The health of our planet and the well-being of citizens and governments are top 
 
 {% end %}
 
+
+{% row(style="center" padding="bottom") %}
+
+<button>[Read Our Manifesto](/manifesto/)</button>
+
+{% end %}
+
 <!-- section 3 -->
 
 
@@ -200,6 +215,10 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 <br>
 
+<button>[See Our Projects](/projects/)</button>
+
+<br>
+
 {% end %}
 
 {% row(style="left narrow" margin="wide" padding="none") %}
@@ -216,7 +235,7 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/projects/tfgrid/)</button>
 
 {% end %}
 
@@ -229,7 +248,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/projects/ourphone/)</button>
 
 
 |||
@@ -259,7 +278,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/projects/freeflow/)</button>
 
 <br>
 <br>

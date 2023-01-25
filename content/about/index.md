@@ -11,9 +11,9 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both") %}
+{% row(style="center" margin="header" padding="top") %}
 
-# About Us
+# About Venture Creator
 
 <br>
 
@@ -29,6 +29,9 @@ The Conscious Internet Venture Creator is backed by the ThreeFold Team with the 
 We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
 </p>
 
+{% end %}
+
+{% row(style="center" padding="bottom") %}
 
 <BUTTON><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON>
 
