@@ -21,7 +21,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew.png#xl#mx-auto#large)
+![image](img/homenew.png#xl#mx-auto)
 
 <br>
 
@@ -216,94 +216,6 @@ despite their economic or social standing, an equal opportunity to learn, partak
 <br>
 
 <button>[See Our Projects](/projects/)</button>
-
-<br>
-
-{% end %}
-
-{% row(style="left narrow" margin="wide" padding="none") %}
-
-![Image](img/tff.png#medium#mx-auto)
-
-|||
-
-
-## ThreeFold Grid
-<br>
-<p>
-A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
-</p>
-
-
-<button>[Learn More](/projects/tfgrid/)</button>
-
-{% end %}
-
-{% row(style="left narrow" margin="wide" padding="none") %}
-
-## OurPhone
-<br>
-<p>
-Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone. 100% data ownership with a quantum safe storage system, fully encrypted communication, and more.
-</p>
-
-
-<button>[Learn More](/projects/ourphone/)</button>
-
-
-|||
-
-![Image](img/ourphone.png#medium#mx-auto)
-
-<br>
-
-{% end %}
-
-{% row(style="left narrow" margin="wide" padding="none") %}
-
-![Image](img/ff.png#medium#mx-auto)
-
-<br>
-<br>
-<br>
-
-|||
-
-
-## FreeFlow Life
-
-<br>
-<p>
-Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
-</p>
-
-
-<button>[Learn More](/projects/freeflow/)</button>
-
-
-{% end %}
-
-{% row(style="left narrow" margin="wide" padding="none") %}
-
-## Sikana
-<br>
-<p>
-A practical video-based learning platform. Free, everywhere, every time.
-</p>
-
-<button>[Learn More](/projects/sikana/)</button>
-
-|||
-
-![Image](img/sikana.png#medium#mx-auto)
-
-<br>
-
-{% end %}
-
-<!-- section 1 (co-found) -->
-
-{% row(style="center" margin="header" padding="none") %}
 
 <br>
 
