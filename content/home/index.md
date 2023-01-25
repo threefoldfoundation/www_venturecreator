@@ -270,3 +270,5 @@ Own every aspect of your digital life – your data, digital skills, and identit
 <br>
 
 {% end %}
+
+</div>
