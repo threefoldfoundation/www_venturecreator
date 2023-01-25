@@ -16,7 +16,7 @@ weight: 1
 <br>
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="wide" padding="both") %}
+{% row(style="center narrow" margin="header" padding="both") %}
 
 # Conscious Internet 
 ## Venture Creator
@@ -69,12 +69,12 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 {% row(style="center narrow" margin="wide" padding="both") %}
 
-# The Need of Conscious Internet
+## The Need of Conscious Internet
 
 <br>
 <br>
 
-![image](img/1.png#xl#mx-auto)
+![image](img/home4.png#large#mx-auto)
 
 <br>
 
