@@ -7,8 +7,6 @@ draft: false
 weight: 1
 ---
 
-
-
 <div class="container mx-auto">
 
 <br>
@@ -18,24 +16,19 @@ weight: 1
 
 {% row(style="center narrow" margin="wide" padding="both") %}
 
-# Conscious Internet 
+## Conscious Internet 
 ## Venture Creator
 
 <br>
+
+![image](img/homenew.png#xl#mx-auto#large)
+
 <br>
 
-![image](img/homenew.png#xl#mx-auto)
-
-<br>
- <br>
-
- ### We believe that doing good for the world and doing good businesses can go hand in hand.
- ### We believe in a world where value meets values.
-
+#### We believe that doing business and doing good for the world can go hand in hand.
+#### We believe in a world where value meets values.
 
 {% end %}
-
-
 
 <!-- section 1b-->
 
@@ -47,11 +40,10 @@ weight: 1
 
 ## Be the Creator
  
- ### Create Ventures for a Better World 
+### Create Ventures to Empower a Better World 
 
- <br>
 <p>
-We have the majority of the technology available, we need to go in production & deployment mode.  <br>We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
+We have the majority of the technology available, we need to go in production & deployment mode. We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
  <br>
   <br>
 Each venture is focused on a specific region and localized set of use cases using the technology we have already developed or need to further develop.
@@ -61,9 +53,9 @@ Each venture is focused on a specific region and localized set of use cases usin
 
  <!-- section 1c -->
 
-{% row(style="center narrow" margin="wide" padding="both") %}
+{% row(style="center narrow" padding="both") %}
 
-# The Need of Conscious Internet
+# Building a Conscious Internet Together
 
 <br>
 <br>
@@ -88,7 +80,6 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 {% end %}
 
-
 <!-- section 2  -->
 
 {% row(style="center narrow" margin="wide" padding="none") %}
@@ -99,7 +90,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 {% row(style="center" margin="wide" padding="both") %}
 
-### **Conscious Infrastructure**
+### Conscious **Infrastructure**
 
 <br>
 
@@ -114,7 +105,7 @@ To build a robust, decentralized, and sovereign internet and communication infra
 
 |||
 
-### **Conscious Financial System**
+### Conscious<br>**Financial System**
 
 <br>
 
@@ -130,7 +121,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 
 |||
 
-### **Conscious Digital Tools**
+### Conscious<br>**Digital Tools**
 
 <br>
 
