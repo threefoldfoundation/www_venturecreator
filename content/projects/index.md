@@ -9,10 +9,11 @@ weight: 2
 
 <div class="container mx-auto">
 
-<!-- section 3 -->
+<br>
 
+<!-- section 1 (co-found) -->
 
-{% row(style="center narrow" margin="wide" padding="none") %}
+{% row(style="center" margin="header" padding="both") %}
 
 ## Conscious Ventures
 
