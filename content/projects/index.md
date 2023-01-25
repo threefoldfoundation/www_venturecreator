@@ -75,12 +75,14 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 ![Image](img/ff.png#medium#mx-auto)
 
+<br>
+
+
 |||
 
 
 ## FreeFlow Life
 
-<br>
 <p>
 Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
 </p>
@@ -88,9 +90,17 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 <button>[Learn More](/projects/freeflow/)</button>
 
+
+{% end %}
+
+<!-- section 1 (co-found) -->
+
+{% row(style="center" margin="header" padding="none") %}
+
 <br>
 
 {% end %}
+
 </div>
 
 

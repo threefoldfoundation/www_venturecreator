@@ -196,6 +196,13 @@ The health of our planet and the well-being of citizens and governments are top 
 
 {% end %}
 
+
+{% row(style="center" padding="bottom") %}
+
+<button>[Read Our Manifesto](/manifesto/)</button>
+
+{% end %}
+
 <!-- section 3 -->
 
 
@@ -217,7 +224,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 <br>
 
-<button>[Learn More](/projects/)</button>
+<button>[See Our Projects](/projects/)</button>
 
 <br>
 
