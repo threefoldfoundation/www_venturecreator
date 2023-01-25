@@ -47,7 +47,7 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/tfgrid/)</button>
 
 {% end %}
 
@@ -60,7 +60,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/ourphone/)</button>
 
 
 |||
@@ -86,7 +86,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 </p>
 
 
-<button>[Learn More](/manifesto/)</button>
+<button>[Learn More](/freeflow/)</button>
 
 <br>
 
