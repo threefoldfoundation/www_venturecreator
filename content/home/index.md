@@ -131,7 +131,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 
 |||
 
-### **Conscious DigitaL Tools**
+### **Conscious Digital Tools**
 
 <br>
 
