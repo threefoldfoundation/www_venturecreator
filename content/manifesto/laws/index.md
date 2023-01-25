@@ -16,7 +16,7 @@ weight: 2
 
 {% row(style="center narrow" margin="header" padding="top") %}
 
-## Our Conscious Digital Laws
+## Conscious Digital Laws
 
 {% end %}
 

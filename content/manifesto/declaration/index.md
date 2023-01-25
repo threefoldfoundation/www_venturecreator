@@ -1,5 +1,5 @@
 ---
-title: "Conscious Rights"
+title: "Conscious Declaration"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
@@ -15,14 +15,16 @@ weight: 2
 
 {% row(style="center narrow" margin="header" padding="top") %}
 
-## Our Conscious Rights
+## Conscious Declaration
 
 {% end %}
 
 
 {% row(style="center narrow" padding="bottom") %}
 
-![Image](img/rightspdf.png#xl#mx-auto)
+![Image](img/declaration.png#xl#mx-auto)
+
+![Image](img/declaration.png#xl#mx-auto)
 
 <br>
 
