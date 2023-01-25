@@ -37,7 +37,7 @@ weight: 2
 
 |||
 
-## Our Digital Informations Laws
+## Conscious Digital Laws
 
 ![Image](img/laws.png#xl#mx-auto)
 
