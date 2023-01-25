@@ -123,7 +123,7 @@ To build a robust, decentralized, and sovereign internet and communication infra
 
 
 <p>
-To establish a secure, decentralized digital financial ecosystem that provides safe and affordable micropayments, exchanges, and digital currency systems.
+To establish a secure, decentralized digital financial ecosystem that provides safe and affordable micropayments, exchanges, and digital currency systems for every  transactions.
 </p>
 
 
