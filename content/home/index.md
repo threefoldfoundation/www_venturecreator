@@ -150,7 +150,7 @@ To empower individuals and communities with the digital tools and capabilities t
 </p>
 
 
-<button>[Learn More](/tools/)</button>
+<button>[Learn More](/home/tools/)</button>
 
 {% end %}
 
