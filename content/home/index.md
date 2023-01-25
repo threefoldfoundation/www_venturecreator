@@ -14,26 +14,29 @@ weight: 1
 <br>
 
 <br>
+<!-- section 1c -->
 
-<!-- section 1 -->
+{% row(style="center narrow" margin="wide" padding="both") %}
 
-{% row(style="right narrow" margin="wide" padding="both") %}
+# Conscious Internet 
+## Venture Creator
 
- ## Venture Creator 
- 
- ### of The Conscious Internet 
+<br>
+<br>
 
+![image](img/homenew.png#xl#mx-auto)
+
+<br>
  <br>
 
 <p>
- We believe that doing good for the world and <br> doing good businesses can go hand in hand. <br>We believe in a world where value meets values.
+ We believe that doing good for the world and doing good businesses can go hand in hand.  <br>
+ We believe in a world where value meets values.
 </p>
 
- |||
-
-  ![Image](img/homee.png#medium#mx-auto)
-
 {% end %}
+
+
 
 <!-- section 1b-->
 
