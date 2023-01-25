@@ -8,9 +8,6 @@ weight: 2
 ---
 
 <div class="container mx-auto">
-
-<br>
-
 <!-- section 1 (co-found) -->
 
 {% row(style="center" margin="header" padding="top") %}

@@ -9,9 +9,6 @@ weight: 1
 
 <div class="container mx-auto">
 
-<br>
-
-<br>
 <!-- section 1c -->
 
 {% row(style="center narrow" margin="header" padding="both") %}
