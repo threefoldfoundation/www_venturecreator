@@ -16,7 +16,7 @@ weight: 1
 
 {% row(style="left narrow" padding="both") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> TF Grid</span>
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">TF Grid</span>
 
 <span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> The Underlying Infrastructure</span>
 

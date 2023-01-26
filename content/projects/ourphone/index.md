@@ -47,7 +47,7 @@ OurPhone™ is nearly ready for pre-order and we expect to ship the first batch 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
 
 <p>
-This year will primarily be about delivering the first version and making software improvements. *Need more from Kristof.*
+This year will primarily be about delivering the first version and making software improvements.
 </p>
 
 {% end %}
