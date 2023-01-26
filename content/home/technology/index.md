@@ -44,7 +44,7 @@ The ThreeFold Grid, which deploys this technology in an open-source model, has b
 
 <br>
 
-<button>[Read About Our Ventures](/projects/)</button>
+<button>[Read More](/home/tools/)</button>
 
 {% end %}
 
