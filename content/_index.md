@@ -8,5 +8,7 @@ sort_by: weight
 weight: 1
 extra:
     logo_path: logo_placeholder.png
+    favicon_path: favicon.png
+
 
 ---
