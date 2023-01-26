@@ -19,11 +19,15 @@ weight: 2
 ## Digital Nation information Laws
 
 
-![Image](img/laws.png#mx-auto)
+{% end %}
 
-![Image](img/laws.png#mx-auto)
+{% row(style="left"  padding="bottom") %}
 
-<br>
+![Image](img/1.png#large#mx-auto)
+
+
+|||
+
 
 ### Information is Owned by the Author(s)
 
@@ -43,7 +47,9 @@ We have absolute freedom to decide what we want to share, and with whom we want 
 We can at any point in time retrieve/destroy our information or revoke access rights.
 </p>
 
-<br>
+{% end %}
+
+{% row(style="left narrow" padding="bottom") %}
 
 ### Information Cannot be Changed or Read Without the Consent of the Author(s)
 
@@ -52,7 +58,6 @@ No one has access to our information unless we have given explicit access rights
 It should be technically impossible for a hacker or other organization to change information and represent it in another way than originally intended.
 </p>
 
-<br>
 
 ### Information can be Verified
 
@@ -61,9 +66,21 @@ We can ask for verification of the information at any point in time.
 We can track to the author unless the author wants to be anonymous but then we know the source does not want to be known. In other words we don’t fake authorship or hide behind fake accounts.
 </p>
 
-<br>
 
-### We Define which Information we Want to Search for and the Search Results are not Manipulated
+|||
+
+![Image](img/2.png#large#mx-auto)
+
+{% end %}
+
+{% row(style="left narrow" padding="bottom") %}
+
+![Image](img/3.png#large#mx-auto)
+
+|||
+
+
+### We Define Which Information We Want to Search for and the Search Results are not Manipulated
 
 <p>
 We have the ability to search and consume information in freedom and neutrality.
@@ -80,8 +97,10 @@ This access should never be abused for other reasons as public safety.
 This right should not lead to unnecessary censorship.
 </p>
 
-<br>
 
+{% end %}
+
+{% row(style="center narrow" padding="bottom") %}
 
 <button>[Conscious Manifesto](/manifesto/)</button>
 

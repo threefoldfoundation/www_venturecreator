@@ -18,6 +18,7 @@ weight: 2
 
 
 ### We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. 
+<br>
 
 ### A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.
 
@@ -29,7 +30,9 @@ weight: 2
 
 ## Conscious Declaration
 
-![Image](img/declaration.png#xl#mx-auto)
+<br>
+
+![Image](img/declaration.png#medium#mx-auto)
 
 <br>
 
@@ -39,7 +42,9 @@ weight: 2
 
 ## Conscious Digital Laws
 
-![Image](img/laws.png#xl#mx-auto)
+<br>
+
+![Image](img/laws.png#medium#mx-auto)
 
 <br>
 
