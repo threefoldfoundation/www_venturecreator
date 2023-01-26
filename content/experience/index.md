@@ -23,9 +23,7 @@ weight: 2
 <p>
 This journey began with the creation of a new Internet infrastructure layer, a process that took over 20 years – and was made possible by the contributions of thousands of people. Thank you to everyone who has made this possible.
 
-Our co-founders also have experience running Incubaid, a successful incubator focused primarily on helping to change our planet for the better through technology that supports decentralization. Over 19 years, Incubaid did seven exits totaling more than $500 million.
-
-<button>[Learn About Incubaid](https://incubaid.com)</button>
+Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.com)</u>, a successful incubator focused primarily on helping to change our planet for the better through technology that supports decentralization. Over 19 years, Incubaid did seven exits totaling more than $500 million.
 </p>
 
 |||
@@ -35,7 +33,7 @@ Our co-founders also have experience running Incubaid, a successful incubator fo
 {% end %}
 
 
-{% row(style="LEFT NARROW" padding="bottom") %}
+{% row(style="left narrow" padding="bottom") %}
 
 ![Image](img/2.png#medium#mx-auto)
 
@@ -51,26 +49,23 @@ We have signed a heads of terms agreement with a government for the implementati
 
 {% end %}
 
-{% row(style="left narrow" padding="bottom") %}
+{% row(style="left narrow" padding="none") %}
 
 <p>
-
 We have also completed all necessary preparations for the launch of our digital twin, the freeflow twin, which can be viewed on the website [freeflow.life](https://www.freeflow.life/). This venture is ready to launch and is eagerly anticipated by the community.
 
 There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large communities.
-
 </p>
 
 |||
 
 ![Image](img/c.png#medium#mx-auto)
 
-
 {% end %}
 
-{% row(style="center" padding="bottom") %}
+{% row(style="center" padding="both") %}
 
-<button>[See Our Projects](/projects/)</button>
+<button>[See Projects](/projects/)</button>
 
 {% end %}
 
