@@ -23,7 +23,7 @@ weight: 2
 
 <br>
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Decentralized Internet Infrastructure and Technology</span>
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Decentralized Internet Infrastructure and Technology</span>
 
 
 <br>

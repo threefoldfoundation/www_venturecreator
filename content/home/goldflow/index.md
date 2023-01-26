@@ -23,7 +23,7 @@ weight: 2
 
 <br>
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> A Gold-linked Digital Currency
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">A Gold-Linked Digital Currency</span>
 
 
 <br>
