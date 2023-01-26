@@ -38,7 +38,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 |||
 
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"></span>ThreeFold Grid</span>
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">ThreeFold Grid</span>
 <br>
 <p>
 A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
