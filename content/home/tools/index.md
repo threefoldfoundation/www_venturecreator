@@ -19,7 +19,7 @@ weight: 2
 
 <br>
 
-![Image](img/digitaltools.png#medium#m)
+![Image](img/digitaltools.png#medium#mx-auto)
 
 <br>
 

@@ -11,15 +11,17 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="top") %}
+{% row(style="center narrow" margin="header" padding="top") %}
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> About Venture Creator</span>
 
-<br>
+{% end %}
 
-![Image](img/home1.png#mx-auto)
+{% row(style="left narrow" margin="wide" padding="none") %}
 
-<br>
+![image](img/home1.png)
+
+|||
 
 <p>
 A venture creator is a company or organization that creates and develops new businesses, typically in the form of startups. Support includes providing funding, resources, and mentorship.

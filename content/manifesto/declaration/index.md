@@ -13,7 +13,7 @@ weight: 2
 <!-- section 2 (co-found) -->
 
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center narrow" margin="header" padding="top") %}
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Declaration</span>
 
@@ -22,7 +22,7 @@ weight: 2
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/dec1.png#medium#m)
+![Image](img/dec1.png#medium#mx-auto)
 
 
 |||
@@ -60,7 +60,7 @@ We declare that we want to produce high quality and sustainable products or serv
 |||
 
 
-![Image](img/dec2.png#medium#m)
+![Image](img/dec2.png#medium#mx-auto)
 
 {% end %}
 

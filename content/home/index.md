@@ -14,11 +14,11 @@ weight: 1
 {% row(style="center narrow" margin="header" padding="top") %}
 
 
-<span style="font-size:3.5em; line-height:1em;">**Conscious Internet<br>Venture Creator**</span>
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span>
 
 <br>
 
-![image](img/homenew.png#xl#m)
+![image](img/homenew.png#xl#mx-auto)
 
 <br>
 
@@ -30,7 +30,7 @@ weight: 1
 
 {% row(style="right narrow" margin="mirrored" padding="bottom") %}
 
-  ![Image](img/home1.png#medium#m)
+  ![Image](img/home1.png#medium#mx-auto)
   
    |||
 
@@ -57,7 +57,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 <span style="font-size:2.5em; line-height:1em;">**The Need for a Conscious Internet**</span>
 
-![image](img/home4.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
+![image](img/home4.png#mx-auto)
 
 
 <p>
@@ -92,7 +92,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 <br>
 
- ![Image](img/2a.png#medium#m)
+ ![Image](img/2a.png#medium#mx-auto)
 
 
 <p>
@@ -107,7 +107,7 @@ To build a robust, decentralized, and sovereign internet and communication infra
 
 <br>
 
- ![Image](img/2b.png#medium#m)
+ ![Image](img/2b.png#medium#mx-auto)
 
 
 <p>
@@ -123,7 +123,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 
 <br>
 
- ![Image](img/2c.png#medium#m)
+ ![Image](img/2c.png#medium#mx-auto)
 
 
 <p>
@@ -148,7 +148,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/authenticity.png#medium#m)
+![Image](img/authenticity.png#medium#mx-auto)
 
 |||
 
@@ -170,7 +170,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 |||
 
-![Image](img/planetfirst.png#medium#m)
+![Image](img/planetfirst.png#medium#mx-auto)
 
 {% end %}
 
@@ -190,7 +190,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture.png#medium#m)
+![Image](img/venture.png#medium#mx-auto)
 
 <br>
 

@@ -19,7 +19,7 @@ weight: 2
 
 <br>
 
-![Image](img/2b.png#medium#m)
+![Image](img/2b.png#medium#mx-auto)
 
 <br>
 

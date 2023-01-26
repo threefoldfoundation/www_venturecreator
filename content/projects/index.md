@@ -17,7 +17,7 @@ weight: 5
 
 <br>
 
-![Image](img/venture.png#medium#m)
+![Image](img/venture.png#medium#mx-auto)
 
 <br>
 
@@ -33,7 +33,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/tff.png#medium#m)
+![Image](img/tff.png#medium#mx-auto)
 
 |||
 

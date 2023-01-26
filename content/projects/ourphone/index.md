@@ -28,7 +28,7 @@ Experience true sovereignty at your fingertips with OurPhone™, the world’s f
 
 |||
 
-![image](img/ourphone.png#medium#m)
+![image](img/ourphone.png#medium#mx-auto)
 
 {% end %}
 

@@ -35,7 +35,7 @@ Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/2.png#medium#m)
+![Image](img/2.png#medium#mx-auto)
 
 |||
 
@@ -59,7 +59,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/c.png#medium#m)
+![Image](img/c.png#medium#mx-auto)
 
 {% end %}
 
@@ -68,11 +68,11 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> We are an Experienced Team
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> With More than $50 Millions in Exits
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">With More than $50 Millions in Exits</span>
 
 <br>
 
-![image](img/exits.png#xl#m)
+![image](img/exits.png#xl#mx-auto)
 
 <br>
 

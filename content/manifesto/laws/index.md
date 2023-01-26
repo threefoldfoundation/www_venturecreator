@@ -14,7 +14,7 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both") %}
+{% row(style="center" margin="header" padding="top") %}
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Digital Nation information Laws</span>
 
@@ -23,7 +23,7 @@ weight: 2
 
 {% row(style="left"  padding="bottom") %}
 
-![Image](img/1.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
+![Image](img/1.png#mx-auto)
 
 
 |||
@@ -69,13 +69,13 @@ We can track to the author unless the author wants to be anonymous but then we k
 
 |||
 
-![Image](img/2.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
+![Image](img/2.png#mx-auto)
 
 {% end %}
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/3.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
+![Image](img/3.png#mx-auto)
 
 |||
 
