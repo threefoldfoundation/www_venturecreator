@@ -4,13 +4,10 @@ description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 2
+weight: 3
 ---
 
 <div class="container mx-auto">
-
-<br>
-
 <!-- section 1 (co-found) -->
 
 {% row(style="center" margin="header" padding="top") %}
@@ -21,6 +18,7 @@ weight: 2
 
 
 ### We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. 
+<br>
 
 ### A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.
 
@@ -30,19 +28,23 @@ weight: 2
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-## Conscious Rights
-
-![Image](img/rights.png#xl#mx-auto)
+## Conscious Declaration
 
 <br>
 
-<button>[Read More](/manifesto/rights/)</button>
+![Image](img/declaration.png#medium#mx-auto)
+
+<br>
+
+<button>[Read More](/manifesto/declaration/)</button>
 
 |||
 
-## Our Digital Laws
+## Conscious Digital Laws
 
-![Image](img/laws.png#xl#mx-auto)
+<br>
+
+![Image](img/laws.png#medium#mx-auto)
 
 <br>
 

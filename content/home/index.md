@@ -9,9 +9,6 @@ weight: 1
 
 <div class="container mx-auto">
 
-<br>
-
-<br>
 <!-- section 1c -->
 
 {% row(style="center narrow" margin="header" padding="both") %}
@@ -172,7 +169,7 @@ Authenticity is of the utmost importance. Ensuring that every piece of informati
 </p>
 
 {% end %}
-
+§
 {% row(style="left narrow" margin="wide" padding="none") %}
 
 ## Planet & People First

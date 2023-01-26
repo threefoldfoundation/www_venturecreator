@@ -32,13 +32,19 @@ weight: 2
 ThreeFold Tech has successfully created cutting-edge technology for an upgraded Internet and digital twin technology with an embedded ultra scalable financial system. The ThreeFold Grid, which deploys this technology in an open-source model, has been active for years and is also in its third generation. The community continues to add capacity and use it on a daily basis, as seen on the ThreeFold Grid explorer statistics.
 </p>
 
+<br>
+
+![image](img/gridstat.png#xl#mx-auto)
+
+<br>
+
 <p>
 The ThreeFold Grid, which deploys this technology in an open-source model, has been active for years and is also in its third generation. The community continues to add capacity and use it on a daily basis, as seen on the ThreeFold Grid explorer statistics.
 </p>
 
 <br>
 
-<button>[Learn More](/projects/tfgrid/)</button>
+<button>[Learn More](/home/tools/)</button>
 
 {% end %}
 
