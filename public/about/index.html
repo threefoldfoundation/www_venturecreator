@@ -295,6 +295,124 @@ Parameters:
 <!-- This fixes link & img paths in local, prod, and wth prefix -->
 
     
+
+
+
+
+
+
+<!-- aligns columns depending on col number-->
+ 
+    
+
+
+
+
+
+
+
+
+
+<!-- Padding -->
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+<!-- Margins -->
+
+
+
+
+    
+        
+    
+    
+
+
+
+
+
+
+
+
+    
+        
+        
+    
+
+    
+
+     <!-- makes row semi-full screen width, strips margins -->
+    
+
+        <!-- makes row full screen width, strips margins -->
+    
+        
+    
+
+    
+    
+
+
+
+
+
+<!-- makes row full screen width and adds background img -->
+
+
+
+
+
+
+
+
+<!-- Cancels page margins so that rows can have separate margins -->
+
+
+
+        <div id="" class="relative justify-center flex overflow-hidden  " style="">
+            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-center py-2 md:py-4 lg:pt-28 mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10 text-center items-center mx-auto  lg:max-w-3xl " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
+        
+         
+
+            <!-- Hides empty columns if displayed vertically in small screen -->
+            
+                <div class="flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4 flex-1 ">
+                    <!-- handles mermaid markdown content display -->
+
+                    
+                        <p><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> About Venture Creator</span></p>
+
+                    
+                </div>
+            
+        
+    </div>
+</div><!-- row shortcode 
+Shortcode used in markdown for the creation of mobile compatible vertical rows
+Divides markdown into columns by splitting content using column identifier "|||"
+Creates equal width blocks in a flex row.
+
+Parameters: 
+- style: 
+    - lean: if style is lean, the row doesn't have outer margins
+- bgPath: if bgPath is passed, the row has a full width background
+-->
+
+
+<!-- This fixes link & img paths in local, prod, and wth prefix -->
+
+    
     
     
         
@@ -360,9 +478,6 @@ Parameters:
 
 
     
-        
-        
-    
 
     
 
@@ -370,6 +485,8 @@ Parameters:
     
 
         <!-- makes row full screen width, strips margins -->
+    
+        
     
 
     
@@ -393,20 +510,30 @@ Parameters:
 
 
         <div id="" class="relative justify-center flex overflow-hidden  " style="">
-            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-center py-2 md:py-4 lg:pt-28 mx-12 sm:mx-20 md:mx-28 lg:mx-40 my-10 text-center items-center mx-auto " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
+            <div id="" class="relative flex flex-col md:flex md:flex-row flex-wrap max-w-fit overflow-hidden lg:items-center py-0 mx-4 sm:mx-8 md:mx-12 lg:mx-16 xl:mx-20 lg:max-w-3xl " style="min-width: -webkit-fill-available; min-width: -moz-available"> 
         
          
 
             <!-- Hides empty columns if displayed vertically in small screen -->
             
-                <div class="flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4 flex-1 ">
+                <div class="flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4">
                     <!-- handles mermaid markdown content display -->
 
                     
-                        <h1 id="about-venture-creator">About Venture Creator</h1>
-<br>
-<p><img src="https://venturecreator.studio/about/img/home1.png#medium#mx-auto" alt="Image" /></p>
-<br>
+                        <p><img src="https://venturecreator.studio/about/img/home1.png" alt="image" /></p>
+
+                    
+                </div>
+            
+         
+
+            <!-- Hides empty columns if displayed vertically in small screen -->
+            
+                <div class="flex-1 mb-4 md:mb-12 lg:mb-0 lg:mx-2 xl:mx-4">
+                    <!-- handles mermaid markdown content display -->
+
+                    
+                        
 <p>
 A venture creator is a company or organization that creates and develops new businesses, typically in the form of startups. Support includes providing funding, resources, and mentorship.
 <p>The Conscious Internet Venture Creator is backed by the ThreeFold Team with the goal of not just doing business, but doing good for the world while we’re at it. </p>
@@ -521,7 +648,7 @@ Parameters:
                     <!-- handles mermaid markdown content display -->
 
                     
-                        <p><BUTTON><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON></p>
+                        <p><button style="font-size:0.9em"><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON></p>
 
                     
                 </div>

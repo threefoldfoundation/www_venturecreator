@@ -18,7 +18,7 @@ weight: 3
 ![Image](img/manifesto.png#xl#mx-auto)
 
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. </span>
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We believe that the world needs a new nation - a global complementary Digital Nation. </span>
 <br>
 
 <span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.</span>
@@ -29,7 +29,9 @@ weight: 3
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Declarations</span>
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Our Conscious Declarations</span>
+
+<span style="font-size:1.5em; line-height:1.2em;">For the People</span>
 
 <br>
 
@@ -41,7 +43,9 @@ weight: 3
 
 |||
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Digital Laws</span>
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Our Conscious Digital Laws</span>
+
+<span style="font-size:1.5em; line-height:1.2em;">For the Builders</span>
 
 
 <br>

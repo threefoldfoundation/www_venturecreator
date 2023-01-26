@@ -29,12 +29,10 @@ weight: 2
 <br>
 
 <p>
-We have signed a heads of terms agreement with a government for the implementation of a digital freezone utilizing our technology, and are getting closer to sign with another government with a population of 60 million people that is set to follow suit in the second half of 2023 for the creation of a new Internet and digital backbone.
-</p>
 
-<p>
-We have also completed all necessary preparations for the launch of our digital twin, the freeflow twin, which can be viewed on the website https://www.freeflow.life/. This venture is ready to launch and is eagerly anticipated by the community.
-There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large
+The [ThreeFold Grid](/projects/tfgrid) today provides a decentralized and peer-to-peer Internet foundation on top of which many developer tools have already been built.
+
+We have also completed all necessary preparations for the launch of our digital twin, the [freeflow](/projects/freeflow) twin, which can be viewed on the website [freeflow.life](https://www.freeflow.life/). This venture is ready to launch and is eagerly anticipated by the community. There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large
 
 </p>
 

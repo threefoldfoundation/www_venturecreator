@@ -68,7 +68,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> We are an Experienced Team
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;">With More than $50 Millions in Exits</span>
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">With More than $500 Millions in Exits</span>
 
 <br>
 
