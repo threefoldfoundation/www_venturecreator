@@ -8,6 +8,7 @@ weight: 3
 ---
 
 <div class="container mx-auto">
+
 <!-- section 1 (co-found) -->
 
 {% row(style="center" margin="header" padding="top") %}
@@ -28,11 +29,24 @@ weight: 3
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-## Conscious Declaration
+### Our Conscious Rights
+
 
 <br>
 
-![Image](img/declaration.png#medium#mx-auto)
+![Image](img/rights.png#md#mx-auto)
+
+<br>
+
+<button>[Read More](/manifesto/rights/)</button>
+
+|||
+
+### Our Conscious Declaration
+
+<br>
+
+![Image](img/declaration.png#md#mx-auto)
 
 <br>
 
@@ -40,11 +54,12 @@ weight: 3
 
 |||
 
-## Conscious Digital Laws
+### Our Conscious Digital Laws
+
 
 <br>
 
-![Image](img/laws.png#medium#mx-auto)
+![Image](img/laws.png#md#mx-auto)
 
 <br>
 

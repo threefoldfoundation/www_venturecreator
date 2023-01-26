@@ -24,7 +24,6 @@ weight: 1
 
 <p>
 Experience true sovereignty at your fingertips with OurPhone™, the world’s first truly decentralized smartphone. OurPhone™ enables 100% data ownership and comes with a quantum safe storage system, decentralized network support, edge computing speed, and fully encrypted communication, along with a suite of decentralized superapps.
-
 </p>
 
 |||
@@ -35,14 +34,12 @@ Experience true sovereignty at your fingertips with OurPhone™, the world’s f
 
 <!-- section 2 status -->
 
-{% row(style="left narrow" padding="both") %}
+{% row(style="left narrow" padding="bottom") %}
 
 ## Current Status
 
 <p>
-
 OurPhone™ is nearly ready for pre-order and we expect to ship the first batch during Q1. Please dive into the specs for more information on the technical details and what makes OurPhone™ so unique and powerful.
-
 </p>
 
 |||
@@ -50,14 +47,12 @@ OurPhone™ is nearly ready for pre-order and we expect to ship the first batch 
 ## Roadmap
 
 <p>
-
 This year will primarily be about delivering the first version and making software improvements. *Need more from Kristof.*
-
 </p>
 
 {% end %}
 
-{% row(style="center narrow" padding="both") %}
+{% row(style="center narrow" padding="bottom") %}
 
 <button>[Previous: TF Grid](/projects/tfgrid)</button>
 <button>[Next: FreeFlow](/projects/freeflow)</button>

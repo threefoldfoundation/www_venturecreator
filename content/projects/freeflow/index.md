@@ -26,7 +26,6 @@ weight: 1
 Own your data, digital skills, and identity. It is now possible to own every aspect of your digital life.
 
 FreeFlow aims to provide a platform which allows us to restore the original intent of the Internet, where everyone is equal; where communication is direct, secure and private; where you can trust the information presented; and where everything is free without people becoming products.
-
 </p>
 
 |||
@@ -37,29 +36,27 @@ FreeFlow aims to provide a platform which allows us to restore the original inte
 
 <!-- section 2 status -->
 
-{% row(style="left narrow" padding="both") %}
+{% row(style="center narrow" padding="bottom") %}
 
 ## Current Status
 
-<p>
 
-FreeFlow Twin today is ready for testing at [demo.freeflow.life](https://demo.freeflow.life), already available with a suite of experiences.
+FreeFlow Twin today is ready for testing at <u>[**demo.freeflow.life**](https://demo.freeflow.life)</u>, <br>already available with a suite of experiences.
 
-</p>
 
-|||
+<br>
+<br>
 
 ## Roadmap
 
 <p>
-
-This year, FreeFlow Twin will come out of demo and people will be able to reserve their own FreeFlow Twins and buy their own FreeFlow Nodes to add capacity to the network.
-
+This year, FreeFlow Twin will come out of demo and people will be able to reserve their own FreeFlow Twins <br>and buy their own FreeFlow Nodes to add capacity to the network.
 </p>
 
 {% end %}
 
-{% row(style="center narrow" padding="both") %}
+{% row(style="center narrow" padding="bottom") %}
+
 
 <button>[Previous: OurPhone™](/projects/ourphone)</button>
 <button>[Next: Sikana](/projects/sikana)</button>
