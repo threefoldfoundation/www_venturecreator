@@ -14,7 +14,7 @@ weight: 1
 {% row(style="center narrow" margin="header" padding="top") %}
 
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span>
+<span style="font-size:3.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span>
 
 <br>
 
