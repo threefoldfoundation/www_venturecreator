@@ -25,6 +25,8 @@ weight: 1
 <p>
 Own your data, digital skills, and identity. It is now possible to own every aspect of your digital life.
 
+FreeFlow aims to provide a platform which allows us to restore the original intent of the Internet, where everyone is equal; where communication is direct, secure and private; where you can trust the information presented; and where everything is free without people becoming products.
+
 </p>
 
 |||
