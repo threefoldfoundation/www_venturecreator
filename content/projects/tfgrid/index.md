@@ -1,47 +1,72 @@
 ---
-title: "Projects"
+title: "ThreeFold Grid"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 2
+weight: 1
 ---
 
 <div class="container mx-auto">
 
 <br>
-
-<!-- section 1 (co-found) -->
-
-{% row(style="center" margin="header" padding="both") %}
-
-## ThreeFold Grid
-
 <br>
 
-![Image](img/tfg.png#medium#mx-auto)
+<!-- section 1 intro -->
 
-<br>
+{% row(style="left narrow" padding="both") %}
 
-### The Underlying Structure
+## TF Grid
 
+### The Underlying Infrastructure
 
-<br>
+<button>[Dive In](https://threefold.io)</button>
 
 <p>
-ThreeFold is a peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries. A sovereign alternative to today’s centralized Internet model.
-</p>
+ThreeFold (TF) is a peer-to-peer open-source Internet platform that connects users directly with local Internet capacity (storage and compute) provided by farmers. No intermediaries. A sovereign alternative to today’s centralized Internet model.
 
-<p>
 Spread across the world, our team has built some of the world’s best Internet storage and cloud automation technologies since the ‘90s. With a strong vision for the future and a collaborative community, we’re now on a mission to build a better (digital) world, together.
 </p>
 
-<br>
+|||
 
-<button>[Learn More](https://threefold.io/)</button>
+![image](img/tfg.png#medium#mx-auto)
 
 {% end %}
 
-</div>
+<!-- section 2 status -->
 
+{% row(style="left narrow" padding="both" align="top") %}
 
+## Current Status
+
+<p>
+
+Today, the ThreeFold Grid is live in more than 60 countries, with nearly 3,000 connected nodes, 40 PB of storage capacity and more than 67,000 cores.
+
+The Grid will soon be on version 3.8 and the team is planning for version 4.0 – it is fully operational and ready for workloads.
+
+The ThreeFold Playground provides a suite of decentralized tools and solutions for developers from full virtual machines to 
+
+</p>
+
+|||
+
+## Roadmap
+
+<p>
+
+This year will bring the 4th generation of the ThreeFold Grid along with Digital Twin technology and the Internet of Internets model to scale the project. The team will also be focused on commercial deals and ThreeFold Ventures.
+
+</p>
+
+{% end %}
+
+{% row(style="center narrow" padding="both") %}
+
+<button>[Previous: Sikana](/projects/sikana)</button>
+<button>[Next: OurPhone™](/projects/ourphone)</button>
+
+{% end %}
+
+<div>

@@ -61,7 +61,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 {% row(style="center narrow" padding="both") %}
 
-# The Need of Conscious Internet
+# The Need for a Conscious Internet
 
 <br>
 <br>

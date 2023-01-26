@@ -1,44 +1,71 @@
 ---
-title: "Sikana"
+title: "OurPhone"
 description: ""
 date: 2018-09-14
 updated: 2021-02-20
 draft: false
-weight: 2
+weight: 1
 ---
-
 
 <div class="container mx-auto">
 
 <br>
+<br>
 
-<!-- section 1 (co-found) -->
+<!-- section 1 intro -->
 
-{% row(style="center" margin="header" padding="both") %}
+{% row(style="left narrow" padding="both") %}
 
 ## Sikana
 
-<br>
-
-![Image](img/sikana.png#medium#mx-auto)
-
-<br>
-
 ### Practical Knowledge, Democratized
 
-
-<br>
+<button>[Dive In](https://www.sikana.tv/)</button>
 
 <p>
 Thousands of skills in your pocket. Improve your life and the world around you through practical video-based learning. Free, everywhere, every time.
+
+Sikana's mission is to inspire and help each individual to live a fulfilled, independent, and dignified life.
+
 </p>
 
-<br>
+|||
 
-<button>[Learn More](https://www.sikana.tv/)</button>
+![image](img/sikana.png#medium#mx-auto)
 
 {% end %}
 
-</div>
+<!-- section 2 status -->
+
+{% row(style="left narrow" padding="both") %}
+
+## Current Status
+
+<p>
+
+Until today, Sikana has delivered more than 400,000,000 lessons across 230 countries and 16 languages.
+
+</p>
+
+|||
+
+## Roadmap
+
+<p>
+
+*Need from Florian.*
+
+</p>
+
+{% end %}
+
+{% row(style="center narrow" padding="both") %}
+
+<button>[Previous: FreeFlow](/projects/freeflow)</button>
+<button>[Next: TF Grid](/projects/tfgrid)</button>
+
+{% end %}
+
+<div>
 
 
