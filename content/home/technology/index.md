@@ -19,7 +19,7 @@ weight: 2
 
 <br>
 
-![Image](img/tfff.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/tfff.png#medium#m)
 
 <br>
 
@@ -34,7 +34,7 @@ ThreeFold Tech has successfully created cutting-edge technology for an upgraded 
 
 <br>
 
-![image](img/gridstat.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/gridstat.png#xl#m)
 
 <br>
 

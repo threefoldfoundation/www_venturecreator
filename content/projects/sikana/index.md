@@ -31,7 +31,7 @@ Sikana's mission is to inspire and help each individual to live a fulfilled, ind
 
 |||
 
-![image](img/sikana.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/sikana.png#medium#m)
 
 {% end %}
 

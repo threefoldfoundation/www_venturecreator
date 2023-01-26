@@ -30,7 +30,7 @@ FreeFlow aims to provide a platform which allows us to restore the original inte
 
 |||
 
-![image](img/ff.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/ff.png#medium#m)
 
 {% end %}
 

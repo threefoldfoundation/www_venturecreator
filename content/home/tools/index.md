@@ -19,7 +19,7 @@ weight: 2
 
 <br>
 
-![Image](img/digitaltools.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/digitaltools.png#medium#m)
 
 <br>
 

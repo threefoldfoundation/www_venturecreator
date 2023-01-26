@@ -18,7 +18,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/homenew.png#xl#m)
 
 <br>
 
@@ -30,7 +30,7 @@ weight: 1
 
 {% row(style="right narrow" margin="mirrored" padding="bottom") %}
 
-  ![Image](img/home1.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+  ![Image](img/home1.png#medium#m)
   
    |||
 
@@ -57,7 +57,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 <span style="font-size:2.5em; line-height:1em;">**The Need for a Conscious Internet**</span>
 
-![image](img/home4.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/home4.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
 
 
 <p>
@@ -92,7 +92,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 <br>
 
- ![Image](img/2a.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+ ![Image](img/2a.png#medium#m)
 
 
 <p>
@@ -107,7 +107,7 @@ To build a robust, decentralized, and sovereign internet and communication infra
 
 <br>
 
- ![Image](img/2b.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+ ![Image](img/2b.png#medium#m)
 
 
 <p>
@@ -123,7 +123,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 
 <br>
 
- ![Image](img/2c.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+ ![Image](img/2c.png#medium#m)
 
 
 <p>
@@ -148,7 +148,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/authenticity.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/authenticity.png#medium#m)
 
 |||
 
@@ -170,7 +170,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 |||
 
-![Image](img/planetfirst.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/planetfirst.png#medium#m)
 
 {% end %}
 
@@ -190,7 +190,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/venture.png#medium#m)
 
 <br>
 

@@ -22,7 +22,7 @@ weight: 2
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/dec1.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/dec1.png#medium#m)
 
 
 |||
@@ -60,7 +60,7 @@ We declare that we want to produce high quality and sustainable products or serv
 |||
 
 
-![Image](img/dec2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/dec2.png#medium#m)
 
 {% end %}
 

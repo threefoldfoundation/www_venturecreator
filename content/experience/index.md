@@ -35,7 +35,7 @@ Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/2.png#medium#m)
 
 |||
 
@@ -59,7 +59,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/c.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/c.png#medium#m)
 
 {% end %}
 
@@ -72,7 +72,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 <br>
 
-![image](img/exits.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![image](img/exits.png#xl#m)
 
 <br>
 

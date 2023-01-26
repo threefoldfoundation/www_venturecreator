@@ -15,7 +15,7 @@ weight: 3
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Conscious Manifesto</span>
 
-![Image](img/manifesto.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/manifesto.png#xl#m)
 
 
 <span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. </span>
@@ -34,7 +34,7 @@ weight: 3
 
 <br>
 
-![Image](img/rights.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/rights.png#md#m)
 
 <br>
 
@@ -46,7 +46,7 @@ weight: 3
 
 <br>
 
-![Image](img/declaration.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/declaration.png#md#m)
 
 <br>
 
@@ -59,7 +59,7 @@ weight: 3
 
 <br>
 
-![Image](img/laws.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/laws.png#md#m)
 
 <br>
 

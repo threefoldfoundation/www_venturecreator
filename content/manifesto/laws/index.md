@@ -23,7 +23,7 @@ weight: 2
 
 {% row(style="left"  padding="bottom") %}
 
-![Image](img/1.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/1.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
 
 
 |||
@@ -69,13 +69,13 @@ We can track to the author unless the author wants to be anonymous but then we k
 
 |||
 
-![Image](img/2.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/2.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
 
 {% end %}
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/3.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/3.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large#m)
 
 |||
 

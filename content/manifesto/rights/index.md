@@ -21,7 +21,7 @@ weight: 2
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/rights.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/rights.png#medium#m)
 
 |||
 
@@ -56,7 +56,7 @@ Safety and health are human rights. Feeling safe is crutial for our well-being a
 |||
 
 
-![Image](img/rights2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
+![Image](img/rights2.png#medium#m)
 
 
 {% end %}
