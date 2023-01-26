@@ -63,7 +63,18 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 {% end %}
 
-{% row(style="center" padding="both") %}
+
+{% row(style="center narrow" padding="both") %}
+
+## We are an Experienced Team
+
+### With More than $50 Millions in Exits
+
+<br>
+
+![image](img/exits.png#xl#mx-auto)
+
+<br>
 
 <button>[See Projects](/projects/)</button>
 
