@@ -29,20 +29,7 @@ weight: 3
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Rights</span>
-
-
-<br>
-
-![Image](img/rights.png#md#mx-auto)
-
-<br>
-
-<button style="font-size:0.9em">[Read More](/manifesto/rights/)</button>
-
-|||
-
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Declaration</span>
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Declarations</span>
 
 <br>
 

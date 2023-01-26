@@ -15,7 +15,7 @@ weight: 2
 
 {% row(style="center narrow" margin="header" padding="top") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Declaration</span>
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Declarations</span>
 
 {% end %}
 
