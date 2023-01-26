@@ -16,9 +16,9 @@ weight: 1
 
 {% row(style="left narrow" padding="both") %}
 
-## OurPhone™
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> OurPhone™</span>
 
-### A Truly Decentralized Smartphone
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> A Truly Decentralized Smartphone</span>
 
 <button style="font-size:0.9em">[Dive In](https://ourphone.ourworld.tf/)</button>
 
@@ -28,7 +28,7 @@ Experience true sovereignty at your fingertips with OurPhone™, the world’s f
 
 |||
 
-![image](img/ourphone.png#medium#mx-auto)
+![image](img/ourphone.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 
@@ -36,7 +36,7 @@ Experience true sovereignty at your fingertips with OurPhone™, the world’s f
 
 {% row(style="left narrow" padding="bottom") %}
 
-## Current Status
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Current Status</span>
 
 <p>
 OurPhone™ is nearly ready for pre-order and we expect to ship the first batch during Q1. Please dive into the specs for more information on the technical details and what makes OurPhone™ so unique and powerful.
@@ -44,7 +44,7 @@ OurPhone™ is nearly ready for pre-order and we expect to ship the first batch 
 
 |||
 
-## Roadmap
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
 
 <p>
 This year will primarily be about delivering the first version and making software improvements. *Need more from Kristof.*

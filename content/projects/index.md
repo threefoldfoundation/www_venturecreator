@@ -13,11 +13,11 @@ weight: 5
 
 {% row(style="center" margin="header" padding="both") %}
 
-## Conscious Ventures
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Ventures</span>
 
 <br>
 
-![Image](img/venture.png#medium#mx-auto)
+![Image](img/venture.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
@@ -33,12 +33,12 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/tff.png#medium#mx-auto)
+![Image](img/tff.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 |||
 
 
-## ThreeFold Grid
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"></span>ThreeFold Grid</span>
 <br>
 <p>
 A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
@@ -51,7 +51,7 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-## OurPhone
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">OurPhone</span>
 <br>
 <p>
 Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone. 100% data ownership with a quantum safe storage system, fully encrypted communication, and more.
@@ -79,7 +79,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 |||
 
 
-## FreeFlow Life
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> FreeFlow Life</span>
 
 <p>
 Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
@@ -94,7 +94,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-## Sikana
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;">Sikana</span>
 <br>
 <p>
 A practical video-based learning platform. Free, everywhere, every time.

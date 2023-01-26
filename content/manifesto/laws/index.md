@@ -16,20 +16,20 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-## Digital Nation information Laws
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Digital Nation information Laws</span>
 
 
 {% end %}
 
 {% row(style="left"  padding="bottom") %}
 
-![Image](img/1.png#large#mx-auto)
+![Image](img/1.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 
 |||
 
 
-### Information is Owned by the Author(s)
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Information is Owned by the Author(s)</span>
 
 <p>
 We have sole ownership of our created information/content (e.g. photos, text, videos).
@@ -39,7 +39,7 @@ We have sole ownership of our created information/content (e.g. photos, text, vi
 <br>
 
 
-### Everyone has Control over Their own Information and Community Circles
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Everyone has Control over Their own Information and Community Circles</span>
 
 <p>
 We define the circles (groups of people) we want to communicate with.
@@ -51,7 +51,7 @@ We can at any point in time retrieve/destroy our information or revoke access ri
 
 {% row(style="left narrow" padding="bottom") %}
 
-### Information Cannot be Changed or Read Without the Consent of the Author(s)
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Information Cannot be Changed or Read Without the Consent of the Author(s)</span>
 
 <p>
 No one has access to our information unless we have given explicit access rights.
@@ -59,7 +59,7 @@ It should be technically impossible for a hacker or other organization to change
 </p>
 
 
-### Information can be Verified
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Information can be Verified</span>
 
 <p>
 We can ask for verification of the information at any point in time.
@@ -69,18 +69,18 @@ We can track to the author unless the author wants to be anonymous but then we k
 
 |||
 
-![Image](img/2.png#large#mx-auto)
+![Image](img/2.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/3.png#large#mx-auto)
+![Image](img/3.png<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#large<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 |||
 
 
-### We Define Which Information We Want to Search for and the Search Results are not Manipulated
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We Define Which Information We Want to Search for and the Search Results are not Manipulated</span>
 
 <p>
 We have the ability to search and consume information in freedom and neutrality.
@@ -89,7 +89,7 @@ We don’t like that an AI (Artificial Intelligence) machine decides what inform
 
 <br>
 
-### Law Enforcement Access to Information is Important but Should not be Abused
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Law Enforcement Access to Information is Important but Should not be Abused
 
 <p>
 Safety is important. Governments or law enforcement agencies should be able to access information when required in all transparency (means authors know what rights governments have and when exercised) and for the right reason.

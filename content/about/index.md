@@ -13,11 +13,11 @@ weight: 2
 
 {% row(style="center" margin="header" padding="top") %}
 
-# About Venture Creator
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> About Venture Creator</span>
 
 <br>
 
-![Image](img/home1.png#medium#mx-auto)
+![Image](img/home1.png#mx-auto)
 
 <br>
 

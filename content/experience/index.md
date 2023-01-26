@@ -14,7 +14,7 @@ weight: 4
 
 {% row(style="center" margin="header" padding="top") %}
 
-## Our Experience
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Experience</span>
 
 {% end %}
 
@@ -28,14 +28,14 @@ Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.
 
 |||
 
-![Image](img/1.png#medium#mx-auto)
+![Image](img/1.png#mx-auto)
 
 {% end %}
 
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/2.png#medium#mx-auto)
+![Image](img/2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 |||
 
@@ -59,20 +59,20 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/c.png#medium#mx-auto)
+![Image](img/c.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 
 
 {% row(style="center narrow" padding="both") %}
 
-## We are an Experienced Team
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> We are an Experienced Team
 
-### With More than $50 Millions in Exits
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> With More than $50 Millions in Exits
 
 <br>
 
-![image](img/exits.png#xl#mx-auto)
+![image](img/exits.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 

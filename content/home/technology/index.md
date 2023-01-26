@@ -15,15 +15,15 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-## ThreeFold
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> ThreeFold</span>
 
 <br>
 
-![Image](img/tfff.png#medium#mx-auto)
+![Image](img/tfff.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
-### Decentralized Internet Infrastructure and Technology
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Decentralized Internet Infrastructure and Technology</span>
 
 
 <br>
@@ -34,7 +34,7 @@ ThreeFold Tech has successfully created cutting-edge technology for an upgraded 
 
 <br>
 
-![image](img/gridstat.png#xl#mx-auto)
+![image](img/gridstat.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 

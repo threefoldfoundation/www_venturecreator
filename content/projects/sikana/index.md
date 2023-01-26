@@ -16,9 +16,9 @@ weight: 1
 
 {% row(style="left narrow" padding="both") %}
 
-## Sikana
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Sikana</span>
 
-### Practical Knowledge, Democratized
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Practical Knowledge, Democratized</span>
 
 <button style="font-size:0.9em">[Dive In](https://www.sikana.tv/)</button>
 
@@ -31,7 +31,7 @@ Sikana's mission is to inspire and help each individual to live a fulfilled, ind
 
 |||
 
-![image](img/sikana.png#medium#mx-auto)
+![image](img/sikana.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 
@@ -39,7 +39,7 @@ Sikana's mission is to inspire and help each individual to live a fulfilled, ind
 
 {% row(style="left narrow" padding="bottom") %}
 
-## Current Status
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Current Status</span>
 
 <p>
 Until today, Sikana has delivered more than 400,000,000 lessons across 230 countries and 16 languages.
@@ -47,7 +47,7 @@ Until today, Sikana has delivered more than 400,000,000 lessons across 230 count
 
 |||
 
-## Roadmap
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
 
 <p>
 

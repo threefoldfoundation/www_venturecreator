@@ -15,15 +15,15 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-## Goldflow Token
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Goldflow Token</span>
 
 <br>
 
-![Image](img/2b.png#medium#mx-auto)
+![Image](img/2b.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
-### A Gold-linked Digital Currency
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> A Gold-linked Digital Currency
 
 
 <br>

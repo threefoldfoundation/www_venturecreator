@@ -15,15 +15,15 @@ weight: 2
 
 {% row(style="center" margin="header" padding="both") %}
 
-## Digital Tools
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Digital Tools</span>
 
 <br>
 
-![Image](img/digitaltools.png#medium#mx-auto)
+![Image](img/digitaltools.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
-### Secure and Decentralized Digital Tools
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"><span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Secure and Decentralized Digital Tools</span>
 
 
 <br>

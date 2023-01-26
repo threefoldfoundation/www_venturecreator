@@ -16,9 +16,9 @@ weight: 1
 
 {% row(style="left narrow" padding="both") %}
 
-## TF Grid
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> TF Grid</span>
 
-### The Underlying Infrastructure
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> The Underlying Infrastructure</span>
 
 <button style="font-size:0.9em">[Dive In](https://threefold.io)</button>
 
@@ -42,7 +42,7 @@ Spread across the world, our team has built some of the world’s best Internet 
 
 |||
 
-## Current Status
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Current Status</span>
 
 <p>
 Today, the ThreeFold Grid is live in more than 60 countries, with nearly 3,000 connected nodes, 40 PB of storage capacity and more than 67,000 cores. The Grid will soon be on version 3.8 and the team is planning for version 4.0 – it is fully operational and ready for workloads.
@@ -50,7 +50,7 @@ The ThreeFold Playground provides a suite of decentralized tools and solutions f
 </p>
 
 
-## Roadmap
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
 
 <p>
 This year will bring the 4th generation of the ThreeFold Grid along with Digital Twin technology and the Internet of Internets model to scale the project. The team will also be focused on commercial deals and ThreeFold Ventures.

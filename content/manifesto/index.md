@@ -13,15 +13,15 @@ weight: 3
 
 {% row(style="center" margin="header" padding="top") %}
 
-## Our Conscious Manifesto
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Conscious Manifesto</span>
 
-![Image](img/manifesto.png#xl#mx-auto)
+![Image](img/manifesto.png#xl<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 
-### We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. 
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We, the citizens of FreeFlow Nation, believe that the world needs a new nation - a global complementary Digital Nation. </span>
 <br>
 
-### A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.</span>
 
 {% end %}
 
@@ -29,12 +29,12 @@ weight: 3
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-### Our Conscious Rights
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Rights</span>
 
 
 <br>
 
-![Image](img/rights.png#md#mx-auto)
+![Image](img/rights.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
@@ -42,11 +42,11 @@ weight: 3
 
 |||
 
-### Our Conscious Declaration
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Declaration</span>
 
 <br>
 
-![Image](img/declaration.png#md#mx-auto)
+![Image](img/declaration.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 
@@ -54,12 +54,12 @@ weight: 3
 
 |||
 
-### Our Conscious Digital Laws
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Our Conscious Digital Laws</span>
 
 
 <br>
 
-![Image](img/laws.png#md#mx-auto)
+![Image](img/laws.png#md<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 <br>
 

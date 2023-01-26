@@ -15,20 +15,20 @@ weight: 2
 
 {% row(style="center narrow" margin="header" padding="both") %}
 
-## Conscious Declaration
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Declaration</span>
 
 {% end %}
 
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/dec1.png#medium#mx-auto)
+![Image](img/dec1.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 
 |||
 
 
-### We Declare that We Have Power and We Need to Act
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We Declare that We Have Power and We Need to Act</span>
 
 <p>
 The world needs healing. There is too much talk and not enough action. We believe that we have the power. We shouldn’t blame others – governments, society, politicians or other countries. We all are at the source of the problems the world is facing today, and together we can do something about it.
@@ -41,14 +41,14 @@ This doesn’t mean we have no right to a financially comfortable life, it means
 
 {% row(style="left narrow" padding="bottom") %}
 
-### We Declare that Respect is the Basis of Our Communication and Action
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We Declare that Respect is the Basis of Our Communication and Action</span>
 
 <p>
 We declare that respect instead of fear or ego will be the basis of our communication and our action in this digital nation. We don’t have to agree but respect and tolerance for other opinions is a must. We need to respect time, e.g. time of others and our own.
 </p>
 
 
-### We Declare to Respect the World’s Finite Resources
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We Declare to Respect the World’s Finite Resources</span>
 
 <p>
 We need to be respectful for finite world resources.
@@ -60,7 +60,7 @@ We declare that we want to produce high quality and sustainable products or serv
 |||
 
 
-![Image](img/dec2.png#medium#mx-auto)
+![Image](img/dec2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 

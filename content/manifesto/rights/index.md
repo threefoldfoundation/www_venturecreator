@@ -15,18 +15,18 @@ weight: 2
 
 {% row(style="center narrow" margin="header" padding="both") %}
 
-## Our Conscious Rights
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Conscious Rights</span>
 
 {% end %}
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/rights.png#medium#mx-auto)
+![Image](img/rights.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 |||
 
 
-### Everyone has access to affordable education, Internet, healthcare and financial systems
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Everyone has access to affordable education, Internet, healthcare and financial systems</span>
 
 <p>
 Through education, people can improve the living standards for themselves and for their children. Education is the gateway to a better life.
@@ -35,7 +35,7 @@ For more than 3 billion people in the world today above mentioned digital commod
 
 <br>
 
-### Everyone has equal chances
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Everyone has equal chances</span>
 
 <p>
 Independent of location, race, gender, religion, etc. leaving no one behind. Everyone can deliver services or products to everyone in all transparency and fairness.
@@ -46,7 +46,7 @@ Everyone should charge fair costs in relation to their added value. It's not acc
 
 {% row(style="left narrow" padding="bottom") %}
 
-### Everyone has the right to a safe, healthy, and secure environment
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Everyone has the right to a safe, healthy, and secure environment</span>
 
 <p>
 Everyone has the right to a safe, healthy, and secure environment
@@ -56,7 +56,7 @@ Safety and health are human rights. Feeling safe is crutial for our well-being a
 |||
 
 
-![Image](img/rights2.png#medium#mx-auto)
+![Image](img/rights2.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 
 {% end %}

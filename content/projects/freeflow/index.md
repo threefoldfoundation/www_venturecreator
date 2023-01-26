@@ -16,9 +16,9 @@ weight: 1
 
 {% row(style="left narrow" padding="both") %}
 
-## FreeFlow Life
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> FreeFlow Life</span>
 
-### FreeFlow into Your Digital Life
+<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> FreeFlow into Your Digital Life</span>
 
 <button style="font-size:0.9em">[Dive In](https://freeflow.life)</button>
 
@@ -30,7 +30,7 @@ FreeFlow aims to provide a platform which allows us to restore the original inte
 
 |||
 
-![image](img/ff.png#medium#mx-auto)
+![image](img/ff.png#medium<span style="font-size:2.5em; font-weight:bold; line-height:1em;"#mx-auto)
 
 {% end %}
 
@@ -38,7 +38,7 @@ FreeFlow aims to provide a platform which allows us to restore the original inte
 
 {% row(style="center narrow" padding="bottom") %}
 
-## Current Status
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Current Status</span>
 
 
 FreeFlow Twin today is ready for testing at <u>[**demo.freeflow.life**](https://demo.freeflow.life)</u>, <br>already available with a suite of experiences.
@@ -47,7 +47,7 @@ FreeFlow Twin today is ready for testing at <u>[**demo.freeflow.life**](https://
 <br>
 <br>
 
-## Roadmap
+<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
 
 <p>
 This year, FreeFlow Twin will come out of demo and people will be able to reserve their own FreeFlow Twins <br>and buy their own FreeFlow Nodes to add capacity to the network.
