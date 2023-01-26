@@ -38,7 +38,7 @@ We are in the process of creating a blockchain-based co-investment platform, in 
 
 <br>
 
-<button>[Contact Us](/about/)</button>
+<button style="font-size:0.9em">[Contact Us](/about/)</button>
 
 {% end %}
 

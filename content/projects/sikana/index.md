@@ -20,7 +20,7 @@ weight: 1
 
 ### Practical Knowledge, Democratized
 
-<button>[Dive In](https://www.sikana.tv/)</button>
+<button style="font-size:0.9em">[Dive In](https://www.sikana.tv/)</button>
 
 <p>
 Thousands of skills in your pocket. Improve your life and the world around you through practical video-based learning. Free, everywhere, every time.
@@ -59,8 +59,8 @@ Will be published soon.
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button>[Previous: FreeFlow](/projects/freeflow)</button>
-<button>[Next: TF Grid](/projects/tfgrid)</button>
+<button style="font-size:0.9em">[Previous: FreeFlow](/projects/freeflow)</button>
+<button style="font-size:0.9em">[Next: TF Grid](/projects/tfgrid)</button>
 
 {% end %}
 

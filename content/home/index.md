@@ -11,10 +11,10 @@ weight: 1
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center narrow" margin="header" padding="top") %}
 
-## Conscious Internet 
-## Venture Creator
+
+<span style="font-size:3.5em; line-height:1em;">**Conscious Internet<br>Venture Creator**</span>
 
 <br>
 
@@ -22,22 +22,21 @@ weight: 1
 
 <br>
 
-#### We believe that doing business and doing good for the world can go hand in hand.
-#### We believe in a world where value meets values.
+<span style="font-size:1.5em; line-height:1.2em; margin: 2em;">We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.</span>
 
 {% end %}
 
 <!-- section 1b-->
 
-{% row(style="right narrow" margin="wide" padding="bottom") %}
+{% row(style="right narrow" margin="mirrored" padding="bottom") %}
 
   ![Image](img/home1.png#medium#mx-auto)
   
    |||
 
-## Be the Creator
+<span style="font-size:2.5em; line-height:1em;">**Be the Creator**</span>
  
-### Create Ventures to Empower a Better World 
+<span style="font-size:1.5em; line-height:1.2em;">Ventures to Empower a Better World</span>
 
 <p>
 We have the majority of the technology available, we need to go in production & deployment mode. We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
@@ -48,24 +47,18 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 <br>
 
-
-<button>[Learn More](/about/)</button>
+<button style="font-size:0.9em">[Learn More](/about/)</button>
 
  {% end %}
 
-
  <!-- section 1c -->
 
-{% row(style="center narrow" padding="both") %}
+{% row(style="center narrow" padding="bottom") %}
 
-# The Need for a Conscious Internet
-
-<br>
-<br>
+<span style="font-size:2.5em; line-height:1em;">**The Need for a Conscious Internet**</span>
 
 ![image](img/home4.png#large#mx-auto)
 
-<br>
 
 <p>
 Passing on and creating knowledge is a defining trait of humanity, yet current systems make it difficult to effectively do so. The centralized and manipulated nature of the Internet makes authenticity hard to come by.
@@ -81,21 +74,21 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 <br>
 
-<button>[Read Our Journey](/experience/)</button>
+<button style="font-size:0.9em">[Read Our Journey](/experience/)</button>
 
 {% end %}
 
 <!-- section 2  -->
 
-{% row(style="center narrow" margin="wide" padding="none") %}
+{% row(style="center narrow" margin="mirrored" padding="none") %}
 
-# Our Conscious Goals
+<span style="font-size:2.5em; line-height:1em;">**Our Conscious Goals**</span>
 
 {% end %}
 
-{% row(style="center" margin="wide" padding="both") %}
+{% row(style="center" margin="mirrored" padding="bottom") %}
 
-### Conscious **Infrastructure**
+<span style="font-size:1.5em; line-height:1.2em;">**Conscious Infrastructure**</span>
 
 <br>
 
@@ -106,11 +99,11 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
 </p>
 
-<button>[Learn More](/home/technology/)</button>
+<button style="font-size:0.9em">[Learn More](/home/technology/)</button>
 
 |||
 
-### Conscious<br>**Financial System**
+<span style="font-size:1.5em; line-height:1.2em;">**Conscious Financial System**</span>
 
 <br>
 
@@ -122,11 +115,11 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 </p>
 
 
-<button>[Learn More](/home/goldflow/)</button>
+<button style="font-size:0.9em">[Learn More](/home/goldflow/)</button>
 
 |||
 
-### Conscious<br>**Digital Tools**
+<span style="font-size:1.5em; line-height:1.2em;">**Conscious <br>Digital Tools**</span>
 
 <br>
 
@@ -138,41 +131,38 @@ To empower individuals and communities with the digital tools and capabilities t
 </p>
 
 
-<button>[Learn More](/home/tools/)</button>
+<button style="font-size:0.9em">[Learn More](/home/tools/)</button>
 
 {% end %}
 
-<br>
-<br>
 
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="wide" padding="none") %}
+{% row(style="center narrow" margin="mirrored" padding="none") %}
 
-# Where Value Meets Values
+<span style="font-size:2.5em; line-height:1em;">**Where Value Meets Values**</span>
 
-<br>
 
 {% end %}
 
-{% row(style="left narrow" margin="wide" padding="bottom") %}
+{% row(style="left narrow" margin="mirrored" padding="none") %}
 
 ![Image](img/authenticity.png#medium#mx-auto)
 
 |||
 
-## Authenticity
+<span style="font-size:1.5em; line-height:1.2em;">**Authenticity**</span>
 <br>
 <p>
 Authenticity is of the utmost importance. Ensuring that every piece of information and digital interaction is authentic and peer-reviewed for authenticity.
 </p>
 
 {% end %}
-§
-{% row(style="left narrow" margin="wide" padding="none") %}
 
-## Planet & People First
+{% row(style="left narrow" margin="mirrored" padding="none") %}
+
+<span style="font-size:1.5em; line-height:1.2em;">**Planet & People First**</span>
 <br>
 <p>
 The health of our planet and the well-being of citizens and governments are top priorities Every action taken is in the best interest of our collective home and of people, ensuring safety, equality, education, health, privacy, and sovereignty as a right.
@@ -187,16 +177,16 @@ The health of our planet and the well-being of citizens and governments are top 
 
 {% row(style="center" padding="bottom") %}
 
-<button>[Read Our Manifesto](/manifesto/)</button>
+<button style="font-size:0.9em">[Read Our Manifesto](/manifesto/)</button>
 
 {% end %}
 
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="wide" padding="bottom") %}
+{% row(style="center narrow" margin="mirrored" padding="bottom") %}
 
-## Conscious Ventures
+<span style="font-size:2.5em; line-height:1em;">**Conscious Ventures**</span>
 
 <br>
 
@@ -212,7 +202,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 <br>
 
-<button>[See Our Projects](/projects/)</button>
+<button style="font-size:0.9em">[See Our Projects](/projects/)</button>
 
 <br>
 

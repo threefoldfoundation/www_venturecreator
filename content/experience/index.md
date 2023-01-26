@@ -76,7 +76,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 <br>
 
-<button>[See Projects](/projects/)</button>
+<button style="font-size:0.9em">[See Projects](/projects/)</button>
 
 {% end %}
 

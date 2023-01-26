@@ -40,7 +40,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 <br>
 
-<button>[Learn More](/home/goldflow/)</button>
+<button style="font-size:0.9em">[Learn More](/home/goldflow/)</button>
 
 {% end %}
 

@@ -102,7 +102,7 @@ This right should not lead to unnecessary censorship.
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button>[Conscious Manifesto](/manifesto/)</button>
+<button style="font-size:0.9em">[Conscious Manifesto](/manifesto/)</button>
 
 {% end %}
 

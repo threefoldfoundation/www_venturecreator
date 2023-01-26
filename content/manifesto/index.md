@@ -38,7 +38,7 @@ weight: 3
 
 <br>
 
-<button>[Read More](/manifesto/rights/)</button>
+<button style="font-size:0.9em">[Read More](/manifesto/rights/)</button>
 
 |||
 
@@ -50,7 +50,7 @@ weight: 3
 
 <br>
 
-<button>[Read More](/manifesto/declaration/)</button>
+<button style="font-size:0.9em">[Read More](/manifesto/declaration/)</button>
 
 |||
 
@@ -63,7 +63,7 @@ weight: 3
 
 <br>
 
-<button>[Read More](/manifesto/laws/)</button>
+<button style="font-size:0.9em">[Read More](/manifesto/laws/)</button>
 
 {% end %}
 

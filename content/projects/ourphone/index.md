@@ -20,7 +20,7 @@ weight: 1
 
 ### A Truly Decentralized Smartphone
 
-<button>[Dive In](https://ourphone.ourworld.tf/)</button>
+<button style="font-size:0.9em">[Dive In](https://ourphone.ourworld.tf/)</button>
 
 <p>
 Experience true sovereignty at your fingertips with OurPhone™, the world’s first truly decentralized smartphone. OurPhone™ enables 100% data ownership and comes with a quantum safe storage system, decentralized network support, edge computing speed, and fully encrypted communication, along with a suite of decentralized superapps.
@@ -54,8 +54,8 @@ This year will primarily be about delivering the first version and making softwa
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button>[Previous: TF Grid](/projects/tfgrid)</button>
-<button>[Next: FreeFlow](/projects/freeflow)</button>
+<button style="font-size:0.9em">[Previous: TF Grid](/projects/tfgrid)</button>
+<button style="font-size:0.9em">[Next: FreeFlow](/projects/freeflow)</button>
 
 {% end %}
 

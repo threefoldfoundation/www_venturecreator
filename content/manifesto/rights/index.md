@@ -63,7 +63,7 @@ Safety and health are human rights. Feeling safe is crutial for our well-being a
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button>[Conscious Manifesto](/manifesto/)</button>
+<button style="font-size:0.9em">[Conscious Manifesto](/manifesto/)</button>
 
 {% end %}
 

@@ -66,7 +66,7 @@ We declare that we want to produce high quality and sustainable products or serv
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button>[Conscious Manifesto](/manifesto/)</button>
+<button style="font-size:0.9em">[Conscious Manifesto](/manifesto/)</button>
 
 {% end %}
 

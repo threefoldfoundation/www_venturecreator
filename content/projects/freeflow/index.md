@@ -20,7 +20,7 @@ weight: 1
 
 ### FreeFlow into Your Digital Life
 
-<button>[Dive In](https://freeflow.life)</button>
+<button style="font-size:0.9em">[Dive In](https://freeflow.life)</button>
 
 <p>
 Own your data, digital skills, and identity. It is now possible to own every aspect of your digital life.
@@ -58,8 +58,8 @@ This year, FreeFlow Twin will come out of demo and people will be able to reserv
 {% row(style="center narrow" padding="bottom") %}
 
 
-<button>[Previous: OurPhone™](/projects/ourphone)</button>
-<button>[Next: Sikana](/projects/sikana)</button>
+<button style="font-size:0.9em">[Previous: OurPhone™](/projects/ourphone)</button>
+<button style="font-size:0.9em">[Next: Sikana](/projects/sikana)</button>
 
 {% end %}
 

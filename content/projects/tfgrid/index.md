@@ -20,7 +20,7 @@ weight: 1
 
 ### The Underlying Infrastructure
 
-<button>[Dive In](https://threefold.io)</button>
+<button style="font-size:0.9em">[Dive In](https://threefold.io)</button>
 
 <p>
 ThreeFold (TF) is a peer-to-peer open-source Internet platform that connects users directly with local Internet capacity (storage and compute) provided by farmers. No intermediaries. A sovereign alternative to today’s centralized Internet model.
@@ -60,8 +60,8 @@ This year will bring the 4th generation of the ThreeFold Grid along with Digital
 
 {% row(style="center narrow" padding="bottom" margin="mx-auto") %}
 
-<button>[Previous: Sikana](/projects/sikana)</button>
-<button>[Next: OurPhone™](/projects/ourphone)</button>
+<button style="font-size:0.9em">[Previous: Sikana](/projects/sikana)</button>
+<button style="font-size:0.9em">[Next: OurPhone™](/projects/ourphone)</button>
 
 {% end %}
 

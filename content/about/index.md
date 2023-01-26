@@ -33,7 +33,7 @@ We are an international team of experts and passionate believers in a better wor
 
 {% row(style="center" padding="bottom") %}
 
-<BUTTON><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON>
+<button style="font-size:0.9em"><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON>
 
 
 {% end %}

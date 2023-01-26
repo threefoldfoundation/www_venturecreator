@@ -31,7 +31,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 {% end %}
 
-{% row(style="left narrow" margin="wide" padding="none") %}
+{% row(style="left narrow" margin="mirrored" padding="none") %}
 
 ![Image](img/tff.png#medium#mx-auto)
 
@@ -45,11 +45,11 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 </p>
 
 
-<button>[Learn More](/projects/tfgrid/)</button>
+<button style="font-size:0.9em">[Learn More](/projects/tfgrid/)</button>
 
 {% end %}
 
-{% row(style="left narrow" margin="wide" padding="none") %}
+{% row(style="left narrow" margin="mirrored" padding="none") %}
 
 ## OurPhone
 <br>
@@ -58,7 +58,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 </p>
 
 
-<button>[Learn More](/projects/ourphone/)</button>
+<button style="font-size:0.9em">[Learn More](/projects/ourphone/)</button>
 
 
 |||
@@ -69,7 +69,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 {% end %}
 
-{% row(style="left narrow" margin="wide" padding="none") %}
+{% row(style="left narrow" margin="mirrored" padding="none") %}
 
 ![Image](img/ff.png#medium#mx-auto)
 
@@ -86,13 +86,13 @@ Own every aspect of your digital life – your data, digital skills, and identit
 </p>
 
 
-<button>[Learn More](/projects/freeflow/)</button>
+<button style="font-size:0.9em">[Learn More](/projects/freeflow/)</button>
 
 
 {% end %}
 
 
-{% row(style="left narrow" margin="wide" padding="none") %}
+{% row(style="left narrow" margin="mirrored" padding="none") %}
 
 ## Sikana
 <br>
@@ -100,7 +100,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 A practical video-based learning platform. Free, everywhere, every time.
 </p>
 
-<button>[Learn More](/projects/sikana/)</button>
+<button style="font-size:0.9em">[Learn More](/projects/sikana/)</button>
 
 |||
 
