@@ -57,7 +57,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 <span style="font-size:2.5em; line-height:1em;">**The Need for a Conscious Internet**</span>
 
-![image](img/home4.png#mx-auto)
+![image](img/home5.png#mx-auto)
 
 
 <p>
