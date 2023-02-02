@@ -14,7 +14,8 @@ weight: 1
 {% row(style="center narrow" margin="header" padding="top") %}
 
 
-<span style="font-size:3.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span>
+<!-- <span style="font-size:3.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span> -->
+## Conscious Internet<br>Venture Creator
 
 <br>
 
@@ -22,7 +23,9 @@ weight: 1
 
 <br>
 
-<span style="font-size:1.5em; line-height:1.2em; margin: 2em;">We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.</span>
+<!-- <span style="font-size:1.5em; line-height:1.2em; margin: 2em;">We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.</span> -->
+
+We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.
 
 {% end %}
 
