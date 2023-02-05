@@ -49,7 +49,7 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 
 {% end %}
 
-{% row(style="left narrow" margin="mirrored" padding="none") %}
+{% row(style="left narrow reverse" margin="mirrored" padding="none") %}
 
 ## OurPhone
 <br>
@@ -92,7 +92,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 {% end %}
 
 
-{% row(style="left narrow" margin="mirrored" padding="bottom") %}
+{% row(style="left narrow reverse" margin="mirrored" padding="bottom") %}
 
 ## Sikana
 

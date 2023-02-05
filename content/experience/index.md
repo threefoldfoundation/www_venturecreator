@@ -20,7 +20,7 @@ weight: 4
 
 <br>
 
-{% row(style="left narrow" padding="bottom") %}
+{% row(style="left narrow reverse" padding="bottom") %}
 
 
 This journey began with the creation of a new Internet infrastructure layer, a process that took over 20 years – and was made possible by the contributions of thousands of people. Thank you to everyone who has made this possible.
@@ -51,7 +51,7 @@ We have signed a heads of terms agreement with a government for the implementati
 
 {% end %}
 
-{% row(style="left narrow" padding="bottom") %}
+{% row(style="left narrow reverse" padding="bottom") %}
 
 
 We have also completed all necessary preparations for the launch of our digital twin, the freeflow twin, which can be viewed on the website [freeflow.life](https://www.freeflow.life/). This venture is ready to launch and is eagerly anticipated by the community.
