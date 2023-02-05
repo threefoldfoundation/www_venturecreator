@@ -13,30 +13,24 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="both") %}
+{% row(style="center" margin="header" padding="bottom") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Digital Tools</span>
+## Digital Tools
 
 <br>
 
 ![Image](img/digitaltools.png#medium#mx-auto)
 
-<br>
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Secure and Decentralized Digital Tools</span>
+### Secure and Decentralized Digital Tools</span>
 
 
-<br>
-
-<p>
 
 We have completed all necessary preparations for the launch of our digital twin, the [freeflow](/projects/freeflow) twin, which can be viewed on the website [freeflow.life](https://www.freeflow.life/). This venture is ready to launch and is eagerly anticipated by the community. There are multiple ventures waiting to be born as more funding comes in to use our technology and provide value for large audiences.
 
-</p>
 
-<br>
 
-<button style="font-size:0.9em">[Learn More](/home/goldflow/)</button>
+<button>[Learn More](/home/goldflow/)</button>
 
 {% end %}
 

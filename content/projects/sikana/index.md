@@ -11,23 +11,22 @@ weight: 1
 
 <br>
 <br>
-
 <!-- section 1 intro -->
 
-{% row(style="left narrow" padding="both") %}
+{% row(style="left narrow reverse" padding="both") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Sikana</span>
+## Sikana
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Practical Knowledge, Democratized</span>
+### Practical Knowledge, Democratized
 
-<button style="font-size:0.9em">[Dive In](https://www.sikana.tv/)</button>
+<button>[Dive In](https://www.sikana.tv/)</button>
 
-<p>
+
 Thousands of skills in your pocket. Improve your life and the world around you through practical video-based learning. Free, everywhere, every time.
 
 Sikana's mission is to inspire and help each individual to live a fulfilled, independent, and dignified life.
 
-</p>
+
 
 |||
 
@@ -39,28 +38,28 @@ Sikana's mission is to inspire and help each individual to live a fulfilled, ind
 
 {% row(style="left narrow" padding="bottom") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Current Status</span>
+## Current Status
 
-<p>
+
 Until today, Sikana has delivered more than 400,000,000 lessons across 230 countries and 16 languages.
-</p>
+
 
 |||
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Roadmap</span>
+## Roadmap
 
-<p>
+
 
 Will be published soon.
 
-</p>
+
 
 {% end %}
 
 {% row(style="center narrow" padding="bottom") %}
 
-<button style="font-size:0.9em">[Previous: FreeFlow](/projects/freeflow)</button>
-<button style="font-size:0.9em">[Next: TF Grid](/projects/tfgrid)</button>
+<button>[Previous: FreeFlow](/projects/freeflow)</button>
+<button>[Next: TF Grid](/projects/tfgrid)</button>
 
 {% end %}
 
