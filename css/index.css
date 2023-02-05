@@ -101,7 +101,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-3xl sm:text-xl md:text-4xl lg:text-5xl xl:text-5xl font-bold leading-none my-4;
+    @apply text-3xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-5xl font-bold leading-none my-4;
     font-family: "alegreya", sans-serif;
     line-height: 0.9;
     
