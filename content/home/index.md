@@ -47,7 +47,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
 <br>
 
-<button style="font-size:0.9em">[Learn More](/about/)</button>
+<button>[Learn More](/about/)</button>
 
  {% end %}
 
@@ -72,7 +72,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 
 
-<button style="font-size:0.9em">[Read Our Journey](/experience/)</button>
+<button>[Read Our Journey](/experience/)</button>
 
 {% end %}
 
@@ -96,7 +96,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
 
 
-<button style="font-size:0.9em">[Learn More](/home/technology/)</button>
+<button>[Learn More](/home/technology/)</button>
 
 |||
 
@@ -110,7 +110,7 @@ To establish a secure, decentralized digital financial ecosystem that provides s
 
 
 
-<button style="font-size:0.9em">[Learn More](/home/goldflow/)</button>
+<button>[Learn More](/home/goldflow/)</button>
 
 |||
 
@@ -124,7 +124,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 
 
-<button style="font-size:0.9em">[Learn More](/home/tools/)</button>
+<button>[Learn More](/home/tools/)</button>
 
 {% end %}
 
@@ -171,7 +171,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 {% row(style="center" padding="bottom") %}
 
-<button style="font-size:0.9em">[Read Our Manifesto](/manifesto/)</button>
+<button>[Read Our Manifesto](/manifesto/)</button>
 
 {% end %}
 
@@ -194,7 +194,7 @@ We form ventures and startups that are specifically designed to provide every in
 despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
 
 
-<button style="font-size:0.9em">[See Our Projects](/projects/)</button>
+<button>[See Our Projects](/projects/)</button>
 
 
 

@@ -30,7 +30,7 @@ The Conscious Internet Venture Creator is backed by the ThreeFold Team with the 
 
 We are an international team of experts and passionate believers in a better world who choose to act to make a difference.
 
-<button style="font-size:0.9em"><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON>
+<button><a href = "mailto: info@threefold.io">Contact Us</a></BUTTON>
 {% end %}
 
 

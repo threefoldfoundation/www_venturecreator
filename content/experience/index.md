@@ -75,7 +75,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 ![image](img/exits.png#xl#mx-auto)
 
-<button style="font-size:0.9em">[See Projects](/projects/)</button>
+<button>[See Projects](/projects/)</button>
 
 {% end %}
 

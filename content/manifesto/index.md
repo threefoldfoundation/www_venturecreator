@@ -41,7 +41,7 @@ A nation to complement not replace our existing nations, a nation which has no p
 
 ![Image](img/declaration.png#md#mx-auto)
 
-<button style="font-size:0.9em">[Read More](/manifesto/declaration/)</button>
+<button>[Read More](/manifesto/declaration/)</button>
 
 |||
 
@@ -55,7 +55,7 @@ A nation to complement not replace our existing nations, a nation which has no p
 
 
 
-<button style="font-size:0.9em">[Read More](/manifesto/laws/)</button>
+<button>[Read More](/manifesto/laws/)</button>
 
 {% end %}
 

@@ -45,7 +45,7 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 
 
 
-<button style="font-size:0.9em">[Learn More](/projects/tfgrid/)</button>
+<button>[Learn More](/projects/tfgrid/)</button>
 
 {% end %}
 
@@ -58,7 +58,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 
 
-<button style="font-size:0.9em">[Learn More](/projects/ourphone/)</button>
+<button>[Learn More](/projects/ourphone/)</button>
 
 
 |||
@@ -86,7 +86,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 
 
 
-<button style="font-size:0.9em">[Learn More](/projects/freeflow/)</button>
+<button>[Learn More](/projects/freeflow/)</button>
 
 
 {% end %}
@@ -100,7 +100,7 @@ Own every aspect of your digital life – your data, digital skills, and identit
 A practical video-based learning platform. Free, everywhere, every time.
 
 
-<button style="font-size:0.9em">[Learn More](/projects/sikana/)</button>
+<button>[Learn More](/projects/sikana/)</button>
 
 |||
 
