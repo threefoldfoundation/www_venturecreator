@@ -101,7 +101,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h2 {
-    @apply text-3xl md:text-4xl lg:text-5xl xl:text-5xl font-bold leading-none my-4;
+    @apply text-3xl sm:text-xl md:text-4xl lg:text-5xl xl:text-5xl font-bold leading-none my-4;
     font-family: "alegreya", sans-serif;
     line-height: 0.9;
     
@@ -110,7 +110,7 @@ img[src*="#fig"] {
     @apply font-medium;
   }
   h3 {
-    @apply text-xl lg:text-4xl font-normal my-4;
+    @apply text-xl lg:text-3xl font-bold my-4;
   }
   h3 strong {
     @apply font-medium;
@@ -304,7 +304,7 @@ header {
 }
 
 .banner h2 svg {
-  font-size: 40px;
+  /* font-size: 40px; */
   margin-left: 15px;
   position: absolute;
   top: 55%;
@@ -364,18 +364,18 @@ header {
   transform: none;
 }
 @media (max-width: 768px) {
-  h2 {
+  /* h2 {
     font-size: 4rem;
-  }
+  } */
 }
 @media (max-width: 640px) {
   .banner h2 {
     font: 600 7vw/10vw;
   }
-
+/* 
   .header h1 {
     font-size: 35px;
-  }
+  } */
 
   .banner h2 svg {
     font-size: 30px;
@@ -387,8 +387,8 @@ header {
   .header {
     padding: 80px 0;
   }
-
+/* 
   h2 {
     font-size: 3rem;
-  }
+  } */
 }

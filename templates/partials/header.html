@@ -97,9 +97,9 @@
 {% else %}
     <header id="header-container">
         {% set header_class = config.extra.header_class | default(value='') %}
-        <div class="{{'z-10 bg-white py-3 fixed w-screen max-w-full ' ~ header_class}}">
+        <div class="{{'z-10 bg-white py-1 fixed w-screen max-w-full ' ~ header_class}}">
             <div class="relative z-50 shadow">
-            <div class="mx-auto flex z-50 shadow justify-between items-center pl-6 pr-2 md:pr-0 lg:py-5  md:px-12 py-2 lg:px-20 lg:justify-start lg:space-x-20">
+            <div class="mx-auto flex z-50 shadow justify-between items-center pl-6 pr-2 md:pr-0 lg:py-2  md:px-12 py-2 lg:px-20 lg:justify-start lg:space-x-20">
                 <div>
                     <a href="/" class="flex">
                         <img class="h-auto w-36" src="{{logo_path}}" alt="Logo" />

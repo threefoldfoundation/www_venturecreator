@@ -11,10 +11,8 @@ weight: 1
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="top") %}
+{% row(style="center narrow" margin="header" padding="both") %}
 
-
-<!-- <span style="font-size:3.5em; font-weight:bold; line-height:1em;">Conscious Internet<br>Venture Creator</span> -->
 ## Conscious Internet<br>Venture Creator
 
 <br>
@@ -23,7 +21,6 @@ weight: 1
 
 <br>
 
-<!-- <span style="font-size:1.5em; line-height:1.2em; margin: 2em;">We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.</span> -->
 
 We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.
 
@@ -31,22 +28,22 @@ We believe that doing business and doing good for the world can go hand in hand.
 
 <!-- section 1b-->
 
-{% row(style="right narrow" margin="mirrored" padding="bottom") %}
+{% row(style="right narrow" margin="moderate" padding="both") %}
 
   ![Image](img/home1.png#medium#mx-auto)
   
    |||
 
-<span style="font-size:2.5em; line-height:1em;">**Be the Creator**</span>
+## Be the Creator
  
-<span style="font-size:1.5em; line-height:1.2em;">Ventures to Empower a Better World</span>
+### Ventures to Empower a Better World
 
-<p>
+
 We have the majority of the technology available, we need to go in production & deployment mode. We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
  <br>
-  <br>
+<br>
 Each venture is focused on a specific region and localized set of use cases using the technology we have already developed or need to further develop.
-</p>
+
 
 <br>
 
@@ -56,26 +53,24 @@ Each venture is focused on a specific region and localized set of use cases usin
 
  <!-- section 1c -->
 
-{% row(style="center narrow" padding="bottom") %}
+{% row(style="center narrow" padding="both") %}
 
-<span style="font-size:2.5em; line-height:1em;">**The Need for a Conscious Internet**</span>
+## The Need for a Conscious Internet
 
 ![image](img/home5.png#mx-auto)
 
 
-<p>
+
 Passing on and creating knowledge is a defining trait of humanity, yet current systems make it difficult to effectively do so. The centralized and manipulated nature of the Internet makes authenticity hard to come by.
-</p>
-
-<p>
-Enter ThreeFold, a project with the goal of creating a globally connected knowledge sharing and creation system, accessible to all. With the help of modern tools like Blockchain, Digital Twin Technology and AI, knowledge can be created, translated and expanded faster than ever before without losing authenticity.
-</p>
-
-<p>
-With this infrastructure in place, we have now launched Our Conscious Internet Creator, a venture creator focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
-</p>
-
 <br>
+
+Enter ThreeFold, a project with the goal of creating a globally connected knowledge sharing and creation system, accessible to all. With the help of modern tools like Blockchain, Digital Twin Technology and AI, knowledge can be created, translated and expanded faster than ever before without losing authenticity.
+<br>
+
+With this infrastructure in place, we have now launched Our Conscious Internet Creator, a venture creator focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
+
+
+
 
 <button style="font-size:0.9em">[Read Our Journey](/experience/)</button>
 
@@ -83,55 +78,50 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 <!-- section 2  -->
 
-{% row(style="center narrow" margin="mirrored" padding="none") %}
+{% row(style="center narrow" margin="moderate" padding="top") %}
 
-<span style="font-size:2.5em; line-height:1em;">**Our Conscious Goals**</span>
+## Our Conscious Goals
 
 {% end %}
 
-{% row(style="center" margin="mirrored" padding="bottom") %}
+{% row(style="center" margin="moderate" padding="bottom") %}
 
-<span style="font-size:1.5em; line-height:1.2em;">**Conscious Infrastructure**</span>
+### Conscious <br>Infrastructure
 
-<br>
 
  ![Image](img/2a.png#medium#mx-auto)
 
 
-<p>
+
 To build a robust, decentralized, and sovereign internet and communication infrastructure that is co-owned by everyone. This includes telecom, storage, compute, networking, and more.
-</p>
+
 
 <button style="font-size:0.9em">[Learn More](/home/technology/)</button>
 
 |||
 
-<span style="font-size:1.5em; line-height:1.2em;">**Conscious Financial System**</span>
+### Conscious <br>Financial System
 
-<br>
-
- ![Image](img/2b.png#medium#mx-auto)
+![Image](img/2b.png#medium#mx-auto)
 
 
-<p>
+
 To establish a secure, decentralized digital financial ecosystem that provides safe and affordable micropayments, exchanges, and digital currency systems for every  transactions.
-</p>
+
 
 
 <button style="font-size:0.9em">[Learn More](/home/goldflow/)</button>
 
 |||
 
-<span style="font-size:1.5em; line-height:1.2em;">**Conscious <br>Digital Tools**</span>
+### Conscious <br>Digital Tools
 
-<br>
-
- ![Image](img/2c.png#medium#mx-auto)
+![Image](img/2c.png#medium#mx-auto)
 
 
-<p>
+
 To empower individuals and communities with the digital tools and capabilities they need to achieve a sustainable and secure digital economy through e-commerce, e-education, e-health, and more.
-</p>
+
 
 
 <button style="font-size:0.9em">[Learn More](/home/tools/)</button>
@@ -142,34 +132,35 @@ To empower individuals and communities with the digital tools and capabilities t
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="mirrored" padding="none") %}
+{% row(style="center narrow" margin="moderate" padding="top") %}
 
-<span style="font-size:2.5em; line-height:1em;">**Where Value Meets Values**</span>
+## Where Value Meets Values
 
 
 {% end %}
 
-{% row(style="left narrow" margin="mirrored" padding="none") %}
+{% row(style="left narrow" margin="moderate" padding="none") %}
 
 ![Image](img/authenticity.png#medium#mx-auto)
 
 |||
 
-<span style="font-size:1.5em; line-height:1.2em;">**Authenticity**</span>
-<br>
-<p>
+### Authenticity
+
+
 Authenticity is of the utmost importance. Ensuring that every piece of information and digital interaction is authentic and peer-reviewed for authenticity.
-</p>
+
 
 {% end %}
 
-{% row(style="left narrow" margin="mirrored" padding="none") %}
+{% row(style="left narrow" margin="moderate" padding="none") %}
 
-<span style="font-size:1.5em; line-height:1.2em;">**Planet & People First**</span>
-<br>
-<p>
+### Planet & People First
+
+
 The health of our planet and the well-being of citizens and governments are top priorities Every action taken is in the best interest of our collective home and of people, ensuring safety, equality, education, health, privacy, and sovereignty as a right.
-</p>
+
+
 
 |||
 
@@ -187,9 +178,9 @@ The health of our planet and the well-being of citizens and governments are top 
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="mirrored" padding="bottom") %}
+{% row(style="center narrow" margin="moderate" padding="both") %}
 
-<span style="font-size:2.5em; line-height:1em;">**Conscious Ventures**</span>
+## Conscious Ventures
 
 <br>
 
@@ -197,17 +188,15 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-<p>
+
 We form ventures and startups that are specifically designed to provide every individual, 
 <br>
 despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
-</p>
 
-<br>
 
 <button style="font-size:0.9em">[See Our Projects](/projects/)</button>
 
-<br>
+
 
 {% end %}
 
