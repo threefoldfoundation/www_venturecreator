@@ -11,7 +11,7 @@ weight: 1
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="bottom") %}
+{% row(style="center narrow" margin="header" padding="both") %}
 
 ## Conscious Internet<br>Venture Creator
 

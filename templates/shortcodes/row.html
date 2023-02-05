@@ -62,17 +62,17 @@ Parameters:
   
 <!-- Padding -->
 
-{% set padding_class = " py-8 md:py-8 lg:py-28" %}
+{% set padding_class = " py-8 md:py-8 lg:py-20" %}
 
 {% if padding %}
     {% if "none" in padding %}
         {% set padding_class = " py-0" %}
     {% elif "top" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pt-28" %}
+        {% set padding_class = " py-2 md:py-4 lg:pt-20" %}
     {% elif "bottom" in padding %}
-        {% set padding_class = " py-2 md:py-4 lg:pb-28" %}
+        {% set padding_class = " py-2 md:py-4 lg:pb-20" %}
     {% elif "both" in padding %}
-        {% set padding_class = " py-8 md:py-4 lg:py-28" %}
+        {% set padding_class = " py-8 md:py-4 lg:py-20" %}
     {% endif %}
 {% endif %}
 
