@@ -13,15 +13,19 @@ weight: 3
 
 {% row(style="center" margin="header" padding="top") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Conscious Manifesto</span>
+## Our Conscious Manifesto
+
+<br>
 
 ![Image](img/manifesto.png#xl#mx-auto)
 
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> We believe that the world needs a new nation - a global complementary Digital Nation. </span>
 <br>
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> A nation to complement not replace our existing nations, a nation which has no physical boundaries and which welcomes everyone as a digital citizen.</span>
+We believe that the world needs a new nation - a global complementary Digital Nation.
+<br>
+
+A nation to complement not replace our existing nations, a nation which has no physical<br> boundaries and which welcomes everyone as a digital citizen.
 
 {% end %}
 
@@ -29,30 +33,27 @@ weight: 3
 
 {% row(style="center" margin="header" padding="bottom") %}
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Our Conscious Declarations</span>
+### Our Conscious Declarations
 
-<span style="font-size:1.5em; line-height:1.2em;">For the People</span>
+###  **For the People**
 
 <br>
 
 ![Image](img/declaration.png#md#mx-auto)
 
-<br>
-
 <button style="font-size:0.9em">[Read More](/manifesto/declaration/)</button>
 
 |||
 
-<span style="font-size:1.5em; font-weight:bold; line-height:1.2em;">Our Conscious Digital Laws</span>
+### Our Conscious Digital Laws
 
-<span style="font-size:1.5em; line-height:1.2em;">For the Builders</span>
-
+### **For the Builders**
 
 <br>
 
 ![Image](img/laws.png#md#mx-auto)
 
-<br>
+
 
 <button style="font-size:0.9em">[Read More](/manifesto/laws/)</button>
 

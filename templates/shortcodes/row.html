@@ -89,11 +89,11 @@ Parameters:
     {% elif "moderate" in margin %}
         {% set margin_class = " mx-8 sm:mx-16 md:mx-20 lg:mx-28" %}
     {% elif "narrow" in margin %}
-        {% set margin_class = " mx-12 sm:mx-20 md:mx-28 lg:mx-40" %}
+        {% set margin_class = " mx-4 sm:mx-20 md:mx-28 lg:mx-40 mt-20" %}
     {% elif "tight" in margin %}
-        {% set margin_class = " mx-20 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
+        {% set margin_class = " mx-4 sm:mx-32 md:mx-40 lg:mx-80 xl:mx-96" %}
     {% elif "header" in margin %}
-        {% set margin_class = " mx-4 sm:mx-20 md:mx-28 lg:mx-40 lg:my-10 my-20" %}
+        {% set margin_class = " mx-4 sm:mx-20 md:mx-28 lg:mx-40  my-20" %}
     {% endif %}
     {% if "lean-left" in margin %}
         {% set margin = margin_class | replace(from=" ", to=" first:")%}

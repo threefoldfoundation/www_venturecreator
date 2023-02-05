@@ -11,7 +11,7 @@ weight: 1
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center narrow" margin="header" padding="bottom") %}
 
 ## Conscious Internet<br>Venture Creator
 
@@ -22,7 +22,7 @@ weight: 1
 <br>
 
 
-We believe that doing business and doing good for the world can go hand in hand. We believe in a world where value meets values.
+We believe that doing business and doing good for the world<br> can go hand in hand. We believe in a world where value meets values.
 
 {% end %}
 

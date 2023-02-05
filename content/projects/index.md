@@ -13,19 +13,19 @@ weight: 5
 
 {% row(style="center" margin="header" padding="both") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Conscious Ventures</span>
+## Conscious Ventures
 
 <br>
 
 ![Image](img/venture.png#medium#mx-auto)
 
-<br>
 
-<p>
+
+
 We form ventures and startups that are specifically designed to provide every individual, 
 <br>
 despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
-</p>
+
 
 <br>
 
@@ -38,11 +38,11 @@ despite their economic or social standing, an equal opportunity to learn, partak
 |||
 
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;">ThreeFold Grid</span>
+## ThreeFold Grid
 <br>
-<p>
+
 A peer-to-peer open-source Internet platform that connects users directly with local Internet capacity provided by farmers. No intermediaries such as centralized servers.
-</p>
+
 
 
 <button style="font-size:0.9em">[Learn More](/projects/tfgrid/)</button>
@@ -51,11 +51,11 @@ A peer-to-peer open-source Internet platform that connects users directly with l
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;">OurPhone</span>
+## OurPhone
 <br>
-<p>
+
 Experience true sovereignty at your fingertips with the world’s first truly decentralized smartphone. 100% data ownership with a quantum safe storage system, fully encrypted communication, and more.
-</p>
+
 
 
 <button style="font-size:0.9em">[Learn More](/projects/ourphone/)</button>
@@ -79,11 +79,11 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 |||
 
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;"> FreeFlow Life</span>
+## FreeFlow Life
 
-<p>
+
 Own every aspect of your digital life – your data, digital skills, and identity. A platform which allows us to restore the original intent of the Internet where everyone is equal, communication is direct, secure and private, we can trust information, and we are no longer products.
-</p>
+
 
 
 <button style="font-size:0.9em">[Learn More](/projects/freeflow/)</button>
@@ -92,13 +92,13 @@ Own every aspect of your digital life – your data, digital skills, and identit
 {% end %}
 
 
-{% row(style="left narrow" margin="mirrored" padding="none") %}
+{% row(style="left narrow" margin="mirrored" padding="bottom") %}
 
-<span style="font-size:2.5em; font-weight:bold; line-height:1em;">Sikana</span>
-<br>
-<p>
+## Sikana
+
+
 A practical video-based learning platform. Free, everywhere, every time.
-</p>
+
 
 <button style="font-size:0.9em">[Learn More](/projects/sikana/)</button>
 
@@ -106,17 +106,12 @@ A practical video-based learning platform. Free, everywhere, every time.
 
 ![Image](img/sikana.png#medium#mx-auto)
 
-<br>
+
 
 {% end %}
 
-<!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="none") %}
 
-<br>
-
-{% end %}
 
 </div>
 
