@@ -17,7 +17,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew.png#xl#mx-auto)
+![image](img/homenew.png#medium#mx-auto)
 
 <br>
 
