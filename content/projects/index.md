@@ -17,7 +17,7 @@ weight: 5
 
 <br>
 
-![Image](img/venture.png#medium#mx-auto)
+![Image](img/venture1.png#medium#mx-auto)
 
 
 
