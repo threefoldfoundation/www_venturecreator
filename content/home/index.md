@@ -17,7 +17,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew1.png#xl#mx-auto)
+![image](img/homenew3.png#xl#mx-auto)
 
 <br>
 
@@ -186,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture1.png#xl#mx-auto)
+![Image](img/venture3.png#xl#mx-auto)
 
 <br>
 
