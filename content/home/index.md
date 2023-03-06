@@ -141,7 +141,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="left narrow" margin="moderate" padding="none") %}
 
-![Image](img/authenticity.png#medium#mx-auto)
+![Image](img/authenticity1.png#medium#mx-auto)
 
 |||
 
@@ -186,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture.png#xl#mx-auto)
+![Image](img/venture1.png#xl#mx-auto)
 
 <br>
 
