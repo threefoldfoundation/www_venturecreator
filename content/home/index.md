@@ -17,7 +17,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew.png#medium#mx-auto)
+![image](img/homenew.png#xl#mx-auto)
 
 <br>
 
@@ -37,14 +37,12 @@ We believe that doing business and doing good for the world<br> can go hand in h
 ## Be the Creator
  
 ### Ventures to Empower a Better World
-
-
-We have the majority of the technology available, we need to go in production & deployment mode. We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
+We have the majority of the technology available, we need to go in production & deployment mode. 
+<br><br>
+We do this by creating companies (projects) developed within/by our Conscious Internet Creator.
  <br>
 <br>
 Each venture is focused on a specific region and localized set of use cases using the technology we have already developed or need to further develop.
-
-
 <br>
 
 <button>[Learn More](/about/)</button>
@@ -136,6 +134,8 @@ To empower individuals and communities with the digital tools and capabilities t
 
 ## Where Value Meets Values
 
+<br>
+
 
 {% end %}
 
@@ -148,7 +148,9 @@ To empower individuals and communities with the digital tools and capabilities t
 ### Authenticity
 
 
-Authenticity is of the utmost importance. Ensuring that every piece of information and digital interaction is authentic and peer-reviewed for authenticity.
+Authenticity is of the utmost importance. <br>
+Ensuring that every piece of information <br>
+and digital interaction is authentic and<br> peer-reviewed for authenticity.
 
 
 {% end %}
@@ -160,16 +162,16 @@ Authenticity is of the utmost importance. Ensuring that every piece of informati
 
 The health of our planet and the well-being of citizens and governments are top priorities Every action taken is in the best interest of our collective home and of people, ensuring safety, equality, education, health, privacy, and sovereignty as a right.
 
-
-
 |||
 
-![Image](img/planetfirst.png#medium#mx-auto)
+![Image](img/planetfirst1.png#medium#mx-auto)
 
 {% end %}
 
 
-{% row(style="center" padding="bottom") %}
+{% row(style="center" padding="both") %}
+
+<br>
 
 <button>[Read Our Manifesto](/manifesto/)</button>
 
@@ -184,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture.png#medium#mx-auto)
+![Image](img/venture.png#xl#mx-auto)
 
 <br>
 
