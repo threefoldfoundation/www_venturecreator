@@ -17,14 +17,12 @@ weight: 3
 
 <br>
 
-![Image](img/manifesto.png#xl#mx-auto)
-
+![Image](img/manifesto2.png#xl#mx-auto)
 
 <br>
 
 We believe that the world needs a new nation - a global complementary Digital Nation.
 <br>
-
 A nation to complement not replace our existing nations, a nation which has no physical<br> boundaries and which welcomes everyone as a digital citizen.
 
 {% end %}
