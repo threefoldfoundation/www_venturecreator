@@ -9,22 +9,33 @@ weight: 2
 
 <div class="container mx-auto">
 
-<!-- section 1 (co-found) -->
-
-{% row(style="center narrow" margin="narrow" padding="top") %}
+{% row(style="center narrow" margin="header" padding="both") %}
 
 ## About Venture Creator
 
-{% end %}
+<br>
 
-{% row(style="left narrow" margin="wide" padding="bottom") %}
+![image](img/homenew6.png#large#mx-auto)
 
-![image](img/home1.png)
-
-|||
+<br>
 
 
 A venture creator is a company or organization that creates and develops new businesses, typically in the form of startups. Support includes providing funding, resources, and mentorship.
+
+{% end %}
+
+<!-- section 1 (co-found) -->
+
+
+{% row(style="left narrow" margin="wide" padding="bottom") %}
+
+![image](img/vc.png)
+
+|||
+
+## Doing Good for Humanity
+
+<br>
 
 The Conscious Internet Venture Creator is backed by the ThreeFold Team with the goal of not just doing business, but doing good for the world while we’re at it. 
 
