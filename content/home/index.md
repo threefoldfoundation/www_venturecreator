@@ -30,7 +30,7 @@ We believe that doing business and doing good for the world<br> can go hand in h
 
 {% row(style="right narrow" margin="moderate" padding="both") %}
 
-  ![Image](img/home11.png#medium#mx-auto)
+  ![Image](img/home12.png#medium#mx-auto)
   
    |||
 
@@ -186,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture3.png#xl#mx-auto)
+![Image](img/venture5.png#xl#mx-auto)
 
 <br>
 
