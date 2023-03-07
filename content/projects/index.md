@@ -17,11 +17,8 @@ weight: 5
 
 <br>
 
-![Image](img/venture1.png#medium#mx-auto)
-
-
-
-
+![Image](img/vc0.png#xl#mx-auto)
+<br>
 We form ventures and startups that are specifically designed to provide every individual, 
 <br>
 despite their economic or social standing, an equal opportunity to learn, partake, and succeed.

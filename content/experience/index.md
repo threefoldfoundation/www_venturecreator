@@ -10,34 +10,43 @@ weight: 4
 
 <div class="container mx-auto">
 
-<!-- section 1 (co-found) -->
+div class="container mx-auto">
 
-{% row(style="center" margin="narrow" padding="top") %}
+<!-- section 1c -->
+
+{% row(style="center narrow" margin="header" padding="top") %}
 
 ## Our Experience
 
-{% end %}
+<br>
+
+![image](img/experience.png#xl#mx-auto)
 
 <br>
 
-{% row(style="left narrow reverse" padding="bottom") %}
-
 
 This journey began with the creation of a new Internet infrastructure layer, a process that took over 20 years – and was made possible by the contributions of thousands of people. Thank you to everyone who has made this possible.
+
+{% end %}
+
+
+<!-- section 1 (co-found) -->
+
+{% row(style="left narrow reverse" padding="bottom") %}
 
 Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.com)</u>, a successful incubator focused primarily on helping to change our planet for the better through technology that supports decentralization. Over 19 years, Incubaid did seven exits totaling more than $500 million.
 
 
 |||
 
-![Image](img/1.png#mx-auto)
+![Image](img/journey2.png#mx-auto)
 
 {% end %}
 
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/2.png#medium#mx-auto)
+![Image](img/journey4.png#medium#mx-auto)
 
 |||
 
@@ -61,7 +70,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/c.png#medium#mx-auto)
+![Image](img/journey3.png#medium#mx-auto)
 
 {% end %}
 
