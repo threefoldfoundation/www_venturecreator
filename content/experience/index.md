@@ -20,7 +20,7 @@ div class="container mx-auto">
 
 <br>
 
-![image](img/experience.png#xl#mx-auto)
+![image](img/experience0.png#xl#mx-auto)
 
 <br>
 
@@ -39,14 +39,14 @@ Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.
 
 |||
 
-![Image](img/journey2.png#mx-auto)
+![Image](img/experience1.png#mx-auto)
 
 {% end %}
 
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/journey4.png#medium#mx-auto)
+![Image](img/experience2.png#medium#mx-auto)
 
 |||
 
@@ -70,7 +70,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/journey3.png#medium#mx-auto)
+![Image](img/experience3.png#medium#mx-auto)
 
 {% end %}
 
