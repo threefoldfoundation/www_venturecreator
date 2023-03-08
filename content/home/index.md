@@ -186,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/home5a.png#xl#mx-auto)
+![Image](img/home5a./.png#xl#mx-auto)
 
 <br>
 
