@@ -17,7 +17,7 @@ weight: 1
 
 <br>
 
-![image](img/homenew3.png#xl#mx-auto)
+![image](img/home.png#xl#mx-auto)
 
 <br>
 
@@ -30,7 +30,7 @@ We believe that doing business and doing good for the world<br> can go hand in h
 
 {% row(style="right narrow" margin="moderate" padding="both") %}
 
-  ![Image](img/home12.png#medium#mx-auto)
+  ![Image](img/home1.png#medium#mx-auto)
   
    |||
 
@@ -141,7 +141,7 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="left narrow" margin="moderate" padding="none") %}
 
-![Image](img/authenticity1.png#medium#mx-auto)
+![Image](img/home3.png#medium#mx-auto)
 
 |||
 
@@ -164,7 +164,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 |||
 
-![Image](img/planetfirst1.png#medium#mx-auto)
+![Image](img/home4a.png#medium#mx-auto)
 
 {% end %}
 
@@ -186,7 +186,7 @@ The health of our planet and the well-being of citizens and governments are top 
 
 <br>
 
-![Image](img/venture6.png#xl#mx-auto)
+![Image](img/home5a.png#xl#mx-auto)
 
 <br>
 
