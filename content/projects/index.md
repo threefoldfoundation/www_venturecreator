@@ -30,7 +30,7 @@ despite their economic or social standing, an equal opportunity to learn, partak
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/tff.png#medium#mx-auto)
+![Image](img/tf1.png#medium#mx-auto)
 
 |||
 
@@ -60,7 +60,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 |||
 
-![Image](img/ourphone.png#medium#mx-auto)
+![Image](img/ourphone1.png#medium#mx-auto)
 
 <br>
 
@@ -68,7 +68,7 @@ Experience true sovereignty at your fingertips with the world’s first truly de
 
 {% row(style="left narrow" margin="mirrored" padding="none") %}
 
-![Image](img/ff.png#medium#mx-auto)
+![Image](img/ff1.png#medium#mx-auto)
 
 <br>
 
@@ -101,7 +101,7 @@ A practical video-based learning platform. Free, everywhere, every time.
 
 |||
 
-![Image](img/sikana.png#medium#mx-auto)
+![Image](img/sikana1.png#medium#mx-auto)
 
 
 
