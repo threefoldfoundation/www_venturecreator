@@ -29,7 +29,7 @@ A venture creator is a company or organization that creates and develops new bus
 
 {% row(style="left narrow" margin="wide" padding="bottom") %}
 
-![image](img/vc1.png)
+![image](img/humanity.png)
 
 |||
 

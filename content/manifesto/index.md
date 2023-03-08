@@ -37,7 +37,7 @@ A nation to complement not replace our existing nations, a nation which has no p
 
 <br>
 
-![Image](img/manifesto01.png#medium#mx-auto)
+![Image](img/people.png#medium#mx-auto)
 
 <button>[Read More](/manifesto/declaration/)</button>
 
@@ -49,7 +49,7 @@ A nation to complement not replace our existing nations, a nation which has no p
 
 <br>
 
-![Image](img/manifesto02.png#medium#mx-auto)
+![Image](img/people2.png#medium#mx-auto)
 
 
 

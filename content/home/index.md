@@ -17,7 +17,7 @@ weight: 1
 
 <br>
 
-![image](img/home.png#xl#mx-auto)
+![image](img/homenew.png#xl#mx-auto)
 
 <br>
 
@@ -30,7 +30,7 @@ We believe that doing business and doing good for the world<br> can go hand in h
 
 {% row(style="right narrow" margin="moderate" padding="both") %}
 
-  ![Image](img/home1.png#medium#mx-auto)
+  ![Image](img/creator.png#medium#mx-auto)
   
    |||
 
@@ -141,12 +141,11 @@ To empower individuals and communities with the digital tools and capabilities t
 
 {% row(style="left narrow" margin="moderate" padding="none") %}
 
-![Image](img/home3.png#medium#mx-auto)
+![Image](img/newinternet.png#medium#mx-auto)
 
 |||
 
 ### Authenticity
-
 
 Authenticity is of the utmost importance. <br>
 Ensuring that every piece of information <br>
@@ -180,13 +179,13 @@ The health of our planet and the well-being of citizens and governments are top 
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="moderate" padding="both") %}
+{% row(style="center narrow" margin="moderate" padding="bottom") %}
 
 ## Conscious Ventures
 
 <br>
 
-![Image](img/home5a.png#xl#mx-auto)
+![Image](img/venturep.png#l#mx-auto)
 
 <br>
 
