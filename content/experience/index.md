@@ -10,7 +10,7 @@ weight: 4
 
 <div class="container mx-auto">
 
-div class="container mx-auto">
+<div class="container mx-auto">
 
 <!-- section 1c -->
 
