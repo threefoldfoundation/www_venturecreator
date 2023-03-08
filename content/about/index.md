@@ -9,7 +9,7 @@ weight: 2
 
 <div class="container mx-auto">
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center narrow" margin="header" padding="top") %}
 
 ## About Venture Creator
 
