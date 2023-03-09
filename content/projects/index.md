@@ -17,7 +17,7 @@ weight: 5
 
 <br>
 
-![Image](img/venture0.png#xl#mx-auto)
+![Image](img/projects.png#xl#mx-auto)
 <br>
 We form ventures and startups that are specifically designed to provide every individual, 
 <br>
