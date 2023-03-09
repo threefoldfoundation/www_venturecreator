@@ -22,7 +22,7 @@ weight: 2
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/man1.png#medium#mx-auto)
+![Image](img/man111.png#medium#mx-auto)
 
 
 |||
