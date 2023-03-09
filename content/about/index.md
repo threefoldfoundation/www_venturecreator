@@ -15,7 +15,7 @@ weight: 2
 
 <br>
 
-![image](img/about1.png#xl#mx-auto)
+![image](img/experience.png#xl#mx-auto)
 
 <br>
 

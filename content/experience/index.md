@@ -20,7 +20,7 @@ weight: 4
 
 <br>
 
-![image](img/experience0.png#xl#mx-auto)
+![image](img/new3.png#xl#mx-auto)
 
 <br>
 
@@ -46,7 +46,7 @@ Our co-founders also have experience running <u>[__Incubaid__](https://incubaid.
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/experience2.png#medium#mx-auto)
+![Image](img/experience4.png#medium#mx-auto)
 
 |||
 
@@ -70,7 +70,7 @@ There are multiple ventures waiting to be born as more funding comes in to use o
 
 |||
 
-![Image](img/experience3.png#medium#mx-auto)
+![Image](img/experience5.png#medium#mx-auto)
 
 {% end %}
 

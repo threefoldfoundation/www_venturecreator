@@ -11,13 +11,13 @@ weight: 1
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center narrow" margin="header" padding="top") %}
 
 ## Conscious Internet<br>Venture Creator
 
 <br>
 
-![image](img/homenew.png#xl#mx-auto)
+![image](img/homenewww.png#xl#mx-auto)
 
 <br>
 
@@ -51,7 +51,7 @@ Each venture is focused on a specific region and localized set of use cases usin
 
  <!-- section 1c -->
 
-{% row(style="center narrow" padding="both") %}
+{% row(style="center narrow" padding="bottom") %}
 
 ## The Need for a Conscious Internet
 
@@ -76,7 +76,7 @@ With this infrastructure in place, we have now launched Our Conscious Internet C
 
 <!-- section 2  -->
 
-{% row(style="center narrow" margin="moderate" padding="top") %}
+{% row(style="center narrow" margin="moderate" padding="bottom") %}
 
 ## Our Conscious Goals
 
@@ -130,7 +130,7 @@ To empower individuals and communities with the digital tools and capabilities t
 <!-- section 3 -->
 
 
-{% row(style="center narrow" margin="moderate" padding="top") %}
+{% row(style="center narrow" margin="moderate" padding="bottom") %}
 
 ## Where Value Meets Values
 
@@ -154,7 +154,7 @@ and digital interaction is authentic and<br> peer-reviewed for authenticity.
 
 {% end %}
 
-{% row(style="left narrow" margin="moderate" padding="none") %}
+{% row(style="left narrow" margin="moderate" padding="bottom") %}
 
 ### Planet & People First
 
@@ -168,7 +168,7 @@ The health of our planet and the well-being of citizens and governments are top 
 {% end %}
 
 
-{% row(style="center" padding="both") %}
+{% row(style="center" padding="bottom") %}
 
 <br>
 
@@ -184,15 +184,17 @@ The health of our planet and the well-being of citizens and governments are top 
 ## Conscious Ventures
 
 <br>
+<br>
 
 ![Image](img/venturep.png#l#mx-auto)
 
 <br>
 
-
 We form ventures and startups that are specifically designed to provide every individual, 
 <br>
 despite their economic or social standing, an equal opportunity to learn, partake, and succeed.
+<br>
+<br>
 
 
 <button>[See Our Projects](/projects/)</button>
