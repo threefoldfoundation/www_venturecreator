@@ -23,7 +23,7 @@ weight: 2
 
 {% row(style="left"  padding="bottom") %}
 
-![Image](img/1.png#mx-auto)
+![Image](img/law1.png#mx-auto)
 
 
 |||
@@ -69,13 +69,13 @@ We can track to the author unless the author wants to be anonymous but then we k
 
 |||
 
-![Image](img/2.png#mx-auto)
+![Image](img/law2.png#mx-auto)
 
 {% end %}
 
 {% row(style="left narrow" padding="bottom") %}
 
-![Image](img/3.png#mx-auto)
+![Image](img/law3.png#mx-auto)
 
 |||
 
