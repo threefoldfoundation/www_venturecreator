@@ -3,7 +3,7 @@
 ## About
 
 The official website of Conscious Internet
-Venture Creator
+Venture Creator.
 <br>
 A project that is focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
 
