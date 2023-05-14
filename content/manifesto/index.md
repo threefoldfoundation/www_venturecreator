@@ -10,14 +10,16 @@ weight: 3
 <div class="container mx-auto">
 
 <!-- section 1 (co-found) -->
+<br>
+<br>
 
-{% row(style="center" margin="header" padding="top") %}
+{% row(style="center" margin="header" padding="both") %}
 
 ## Our Conscious Manifesto
 
 <br>
 
-![Image](img/manifesto2.png#xl#mx-auto)
+![Image](img/manifesto2.png#large#mx-auto)
 
 <br>
 

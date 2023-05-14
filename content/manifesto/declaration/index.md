@@ -12,6 +12,7 @@ weight: 2
 
 <!-- section 2 (co-found) -->
 
+<br>
 
 {% row(style="center narrow" margin="header" padding="top") %}
 

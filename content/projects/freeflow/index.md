@@ -21,7 +21,7 @@ weight: 1
 
 ### FreeFlow into Your Digital Life
 
-<button>[Dive In](https://freeflow.life)</button>
+<a href="https://freeflow.life" target="_blank"><button>Dive In</button></a>
 
 
 Own your data, digital skills, and identity. It is now possible to own every aspect of your digital life.

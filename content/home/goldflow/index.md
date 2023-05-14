@@ -15,7 +15,7 @@ weight: 2
 
 <br>
 
-{% row(style="center" margin="header" padding="bottom") %}
+{% row(style="center" margin="header" padding="both") %}
 
 ## Weighted Gold Token
 

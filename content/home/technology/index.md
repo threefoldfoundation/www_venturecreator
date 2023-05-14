@@ -13,7 +13,7 @@ weight: 2
 
 <!-- section 1 (co-found) -->
 
-{% row(style="center" margin="header" padding="bottom") %}
+{% row(style="center" margin="header" padding="both") %}
 
 ## ThreeFold
 

@@ -19,7 +19,7 @@ weight: 1
 
 ### Practical Knowledge, Democratized
 
-<button>[Dive In](https://www.sikana.tv/)</button>
+<a href="https://www.sikana.tv/" target="_blank"><button>Dive In</button></a>
 
 
 Thousands of skills in your pocket. Improve your life and the world around you through practical video-based learning. Free, everywhere, every time.

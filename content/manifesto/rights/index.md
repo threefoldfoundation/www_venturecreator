@@ -11,9 +11,11 @@ weight: 2
 
 
 <!-- section 2 (co-found) -->
+<br>
 
+<br>
 
-{% row(style="center narrow" margin="header" padding="both") %}
+{% row(style="center" margin="header" padding="top") %}
 
 <span style="font-size:2.5em; font-weight:bold; line-height:1em;"> Our Conscious Rights</span>
 
@@ -44,7 +46,7 @@ Everyone should charge fair costs in relation to their added value. It's not acc
 
 {% end %}
 
-{% row(style="left narrow" padding="bottom") %}
+{% row(style="reverse" padding="both") %}
 
 <span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Everyone has the right to a safe, healthy, and secure environment</span>
 
