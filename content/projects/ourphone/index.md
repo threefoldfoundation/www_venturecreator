@@ -20,7 +20,8 @@ weight: 1
 
 ### A Truly Decentralized Smartphone
 
-<button>[Dive In](https://ourphone.ourworld.tf/)</button>
+
+<a href="https://ourphone.ourworld.tf/" target="_blank"><button>Dive In</button></a>
 
 
 Experience true sovereignty at your fingertips with OurPhone™, the world’s first truly decentralized smartphone. OurPhone™ enables 100% data ownership and comes with a quantum safe storage system, decentralized network support, edge computing speed, and fully encrypted communication, along with a suite of decentralized superapps.

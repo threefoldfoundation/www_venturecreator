@@ -8,7 +8,9 @@ weight: 2
 ---
 
 
-<didiv class="container mx-auto">
+<div class="container mx-auto">
+
+<br>
 
 <br>
 
@@ -21,7 +23,7 @@ weight: 2
 
 {% end %}
 
-{% row(style="left"  padding="bottom") %}
+{% row(padding="bottom") %}
 
 ![Image](img/law1.png#mx-auto)
 
@@ -49,7 +51,10 @@ We can at any point in time retrieve/destroy our information or revoke access ri
 
 {% end %}
 
-{% row(style="left narrow" padding="bottom") %}
+
+<!-- section 2  -->
+
+{% row(style="reverse" padding="bottom") %}
 
 <span style="font-size:1.5em; font-weight:bold; line-height:1.2em;"> Information Cannot be Changed or Read Without the Consent of the Author(s)</span>
 

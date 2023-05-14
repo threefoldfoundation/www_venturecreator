@@ -8,14 +8,17 @@ weight: 2
 ---
 
 <div class="container mx-auto">
+<br>
 
-{% row(style="center narrow" margin="header" padding="top") %}
+<br>
+
+{% row(style="center narrow" margin="header" padding="both") %}
 
 ## About Venture Creator
 
 <br>
 
-![image](img/experience.png#xl#mx-auto)
+![image](img/experience.png#large#mx-auto)
 
 <br>
 

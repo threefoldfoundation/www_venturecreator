@@ -10,17 +10,17 @@ weight: 4
 
 <div class="container mx-auto">
 
-<div class="container mx-auto">
+
 
 <!-- section 1c -->
 
-{% row(style="center narrow" margin="header" padding="top") %}
+{% row(style="center narrow" margin="header" padding="both") %}
 
 ## Our Experience
 
 <br>
 
-![image](img/new3.png#xl#mx-auto)
+![image](img/new3.png#mx-auto)
 
 <br>
 
