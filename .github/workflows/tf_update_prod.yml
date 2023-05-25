@@ -1,0 +1,24 @@
+name: venturecreator.studio
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+    - name: pushing latest change on venturecreator.studio
+      uses: appleboy/ssh-action@master
+      with:
+        host: venturecreator.studio
+        username: webuser
+        key: ${{ secrets.TF_SECRET }}
+        port: 34022
+        script: |
+          cd websites/www_venturecreator/
+          git log -1
+          git restore .
+          git pull
+          sed -i "s/https:\/\/www2.venturecreator.studio/https:\/\/venturecreator.studio/g" config.toml
+          ./build.sh
