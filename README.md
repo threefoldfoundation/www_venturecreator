@@ -7,7 +7,9 @@ Venture Creator.
 <br>
 A project that is focused on growing startups that provide added value through a truly decentralized infrastructure platform, including decentralized education, health, financial, and economic systems.
 
-[https://www.venturecreator.studio/](https://www.venturecreator.studio/)
+Production (master branch) [https://www.venturecreator.studio/](https://www.venturecreator.studio/)
+
+Staging (development branch) [https://www.venturecreator.studio/](https://www2.venturecreator.studio/)
 
 Last Updated: March 2023
 
